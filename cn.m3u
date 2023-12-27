@@ -177,8 +177,6 @@ https://epg.pw/stream/88869bbe44812d4aec4de520feed223e11c309bbe9fb7024556de45e3f
 https://epg.pw/stream/d155a423e6a26d563085ef32c509f5b01603932877491f40050dfb0e4220c6c1.ctv
 #EXTINF:-1 tvg-name="德化新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/10/31/large/20221031225613570894_40.jpg" group-title="新闻",[SD]德化新闻综合
 https://epg.pw/stream/467827a73fdacfd22b094133c45b6347894011cdc87919cc2780bd90ca350ae2.m3u8
-#EXTINF:-1 tvg-name="数码时代" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/07/12/large/20210712043153698751_60.png" group-title="其它",[BD]数码时代
-https://epg.pw/stream/91a40b2ed597a5a8513552f4b67efb64b38d8c2c42faa15074bf95149415f9f2.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160954230977_59.jpg" group-title="综合",[SD]新疆卫视
 https://epg.pw/stream/580006792a3173dd2e20eef78805ee8bb30b7b7a617f76e8032af5407d3c5ca4.m3u8
 #EXTINF:-1 tvg-name="早期教育" tvg-id="13997" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/" group-title="其它",[BD]早期教育
@@ -221,10 +219,6 @@ https://epg.pw/stream/4c8266f3d3cca8cce4f9e0762797e36605dd2b91e37d5f05c61fa87f8a
 rtmp://tv.qntv.net/channellive/ch1?zguizd
 #EXTINF:-1 tvg-name="浙江|浙江国际频道" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/01/large/20220501233500757287_70.png" group-title="综合",[BD]浙江|浙江国际频道
 https://epg.pw/stream/30da98f3cbd1cb42c238358d11cd653315c47b826c92ab938c282cdafac18663.m3u8
-#EXTINF:-1 tvg-name="浙江好易购" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152049328565_55.png" group-title="其它",[BD]浙江好易购
-https://epg.pw/stream/faf798bc33d13fd50774af1fcff8e5c128c7ce5d8fca70f9e868aa667701110d.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530221145480622_53.jpg" group-title="动画",[BD]浙江少儿
-https://epg.pw/stream/4da201afb21e9fe41946ca036262daf06482cf66c5cab4ae7b176dd436e84be1.m3u8
 #EXTINF:-1 tvg-name="浙江新闻" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/10/15/large/20211015190924231335_69.png" group-title="新闻",[BD]浙江新闻
 https://epg.pw/stream/4cb4bcb7ae35f2b30dee6b1be1a2d22108c73e9bc3729826ea009821ae7af456.m3u8
 #EXTINF:-1 tvg-name="浙江民生休闲 v4" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530221028154749_27.jpg" group-title="综合",[BD]浙江民生休闲 v4
