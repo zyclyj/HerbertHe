@@ -7,7 +7,7 @@
 | 1 | [BD]hmongusa tv | [BD hmongusa tv](https://epg.pw/stream/5effa9c47e2905097e172b4b68ad7b55f332ed497b7dade937d44da8eeb8e0f8.m3u8) |
 | 2 | [BD]1+1 | [BD 1+1](https://epg.pw/stream/f4130f807149f26c7a91eeb47c0a52359cb3e709da33e8a4028833f540b3cdd9.m3u8) |
 | 3 | [VGA]1+1 ukraina | [VGA 1+1 ukraina](https://epg.pw/stream/1c642659f5ee9e994dbe6fdb1d1d7b73aa78acc73c3a736022309b9436b83d84.ctv) |
-| 4 | [HD]abc 9 manchester nh | [HD abc 9 manchester nh](https://epg.pw/stream/c4ea008a257d9cc20660091463f27025ddf6666fe5606da3d8349a840f2d3d20.m3u8) |
+| 4 | [BD]telecolor lombardia | [BD telecolor lombardia](https://epg.pw/stream/c4c99fd7b6552bb791e7864ccf5c001c3d94d9556da39d67946bbec649a6eb58.m3u8) |
 | 5 | [BD]swamiji tv australian | [BD swamiji tv australian](https://epg.pw/stream/83b0529a196db4678bacb41faf3d6e43a41d1f67045ef8aa1f7ab31354a88e9f.m3u8) |
 | 6 | [HD]ewenyigba tv | [HD ewenyigba tv](https://epg.pw/stream/2bf6304c4f00773b66c5d7fadac43034e388e27e81640b912fd22590a4846be5.m3u8) |
 | 7 | [BD]fairfield fairtv government channel | [BD fairfield fairtv government channel](https://epg.pw/stream/05cdfe2d8d2a4fd933530bb2f9416031a0c14e4bf8e9c52afb887b4d68340315.m3u8) |
@@ -77,7 +77,7 @@
 | 71 | [SD]ASTRO AOD 352 | [SD ASTRO AOD 352](https://epg.pw/stream/383fff018e084c8b145efcee357e820f80a43da8d2b39aea380ab4577555236e.ctv) |
 | 72 | [SD]ASTROAOD353 | [SD ASTROAOD353](https://epg.pw/stream/ebde60462a1674679ed6b2cbc796d61fe9bb40c03f9e7d542dbe2be18b267411.ctv) |
 | 73 | [SD]ASTRO AOD 354 | [SD ASTRO AOD 354](https://epg.pw/stream/5d1267d085ecaad804653c85cad438a2aaefb29d09d045df0acea404f27d4441.ctv) |
-| 74 | [HD]ASRTO PREMIER | [HD ASRTO PREMIER](https://epg.pw/stream/8d0f5ab6bbe030b1156641356c238e83675ca0b870ff99de12d7b3c98d1a7122.ctv) |
+| 74 | [HD]ASRTO PREMIER | [HD ASRTO PREMIER](https://epg.pw/stream/57e94aec3ee3de118d040eb39eca883c7c2684225a8cc57dcef80629a685a1b4.ctv) |
 | 75 | [HD]ASTRO QJ | [HD ASTRO QJ](https://epg.pw/stream/1a2ab441d50e80702f71741b8cf866a8bd97fe99ba6ff20cb3d211ea37d91711.ctv) |
 | 76 | [VGA]Astro Ria | [VGA Astro Ria](https://epg.pw/stream/f7fee17bb86dab753b831e39ee093dffc36823bd6d7bac9cfeb033ca19bd6534.ctv) |
 | 77 | [HD]ASTRO Star Vijay | [HD ASTRO Star Vijay](https://epg.pw/stream/d773cba7bc0ea7756b16b5ecec980ba1247752eacca1986c2d50fb6fd5c67357.ctv) |
@@ -952,7 +952,7 @@
 | 946 | [HD]nfl channel | [HD nfl channel](https://epg.pw/stream/24a73a702372c944732ac9f46870481c922666d21ca9697202cac9dcecd788c7.m3u8) |
 | 947 | [BD]nh tv | [BD nh tv](https://epg.pw/stream/ace53939ae82fa9ade48d73c9ffad2d771697b9a4dd9fe7ecb7872a72527131b.ctv) |
 | 948 | [BD]nhk bs premium | [BD nhk bs premium](https://epg.pw/stream/8e7e14c0687efaa5082e847d03833a4749c5716e9d99580785a59a90d1398787.m3u8) |
-| 949 | [HD]nhk world premium | [HD nhk world premium](https://epg.pw/stream/5e86b323dce4edcffa7bcba0d3b98016fcfe336b10b25ca080beb485adb4d294.m3u8) |
+| 949 | [HD]nhk world | [HD nhk world](https://epg.pw/stream/f46fab92d3d45b687ab3fb0443d3924a55434ae34e83552cfd08efb38c1244bf.m3u8) |
 | 950 | [SD]niaga tv | [SD niaga tv](https://epg.pw/stream/0a197311bbf4e06f563a18dab186f955a7d9749217d4968af1e847e3bd31e9cf.m3u8) |
 | 951 | [BD]ninh bình | [BD ninh bình](https://epg.pw/stream/387d41fe45750641846ca4522083c6dff251f5b890ecf9f1cc015928935c2b39.m3u8) |
 | 952 | [SD]nitro | [SD nitro](https://epg.pw/stream/2dccc7e0d217ea1956752fd3f680a625ff3831e7d543e0d580f689444d0c48d1.m3u8) |
@@ -1326,7 +1326,7 @@
 | 1320 | [BD]беларусь 5 интернет | [BD беларусь 5 интернет](https://epg.pw/stream/ecc7b5040a3c1dca9cf14dec1932bd0d89466ab67014128c0834c0cf23f9de6f.m3u8) |
 | 1321 | [BD]стс hd | [BD стс hd](https://epg.pw/stream/3d3a0a3b817df4b4cf39a1ca8a00395334335e4147748e6dca8084c38ab6a51b.m3u8) |
 | 1322 | [VGA]шансон тв | [VGA шансон тв](https://epg.pw/stream/ee9cf448a22d1e068dabf0655bec3de9f53ae175c4c9d17eed3b05bd61b13627.m3u8) |
-| 1323 | [HD]астрахань 24 | [HD астрахань 24](https://epg.pw/stream/67dd57d2edfaf08c5262fffb44e79466b83c56c3de8b2fdcaaefa9266674cbbb.m3u8) |
+| 1323 | [BD]астрахань 24 | [BD астрахань 24](https://epg.pw/stream/41034fb9991f872a88dbac48ba1f40b3685e21c48e7b7fe6c144f1203510b4df.m3u8) |
 | 1324 | [BD]беларусь 24 | [BD беларусь 24](https://epg.pw/stream/1febed7ef27c33018d17c23c51d94298fd33b45dea900931efd5849bdc68bb7e.m3u8) |
 | 1325 | [BD]волгоград 24 | [BD волгоград 24](https://epg.pw/stream/095bf751d33c547e98505eb52fb6a38b6234a12eb21b0a4f904778fbbf4fd560.m3u8) |
 | 1326 | [VGA]дождь | [VGA дождь](https://epg.pw/stream/f4cabb00333235ee7c102abda1ff748114ec33c26bff172313c381f0f5500a87.m3u8) |
@@ -1801,4 +1801,4 @@
 | 1795 | [HD]龙华戏剧 | [HD 龙华戏剧](https://epg.pw/stream/78528078955ce71bc31c6ea13cb093aa3c75c7b715612e1e745af3a7f2c56d8c.m3u8) |
 | 1796 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Wed Dec 27 2023 16:11:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 27 2023 18:10:33 GMT+0000 (Coordinated Universal Time)**
