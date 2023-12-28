@@ -43,7 +43,7 @@ You can also use the services provided by Mirror Sites Matrix!
 | iptv.org stream China CGTN | [o_s_cn_cgtn.m3u](/o_s_cn_cgtn.m3u) <br> [o_s_cn_cgtn.txt](/txt/o_s_cn_cgtn.txt) | [List for iptv.org stream China CGTN](/list/o_s_cn_cgtn.list) | 6 | - |
 | China | [cn.m3u](/cn.m3u) <br> [cn.txt](/txt/cn.txt) | [List for China](/list/cn.list) | 170 | - |
 | China National | [cn_n.m3u](/cn_n.m3u) <br> [cn_n.txt](/txt/cn_n.txt) | [List for China National](/list/cn_n.list) | 9 | - |
-| China Country | [cn_c.m3u](/cn_c.m3u) <br> [cn_c.txt](/txt/cn_c.txt) | [List for China Country](/list/cn_c.list) | 145 | - |
+| China Country | [cn_c.m3u](/cn_c.m3u) <br> [cn_c.txt](/txt/cn_c.txt) | [List for China Country](/list/cn_c.list) | 149 | - |
 | China Province | [cn_p.m3u](/cn_p.m3u) <br> [cn_p.txt](/txt/cn_p.txt) | [List for China Province](/list/cn_p.list) | 34 | - |
 | All | [all.m3u](/all.m3u) <br> [all.txt](/txt/all.txt) | [List for All](/list/all.list) | 1767 | - |
 | YueChan-Live IPTV | [ycl_iptv.m3u](/ycl_iptv.m3u) <br> [ycl_iptv.txt](/txt/ycl_iptv.txt) | [List for YueChan-Live IPTV](/list/ycl_iptv.list) | 120 | - |
@@ -59,7 +59,7 @@ You can also use the services provided by Mirror Sites Matrix!
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Thu Dec 28 2023 16:11:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 28 2023 18:11:18 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
