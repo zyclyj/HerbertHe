@@ -1778,4 +1778,4 @@
 | 1772 | [VGA]龙华戏剧 | [VGA 龙华戏剧](https://epg.pw/stream/78528078955ce71bc31c6ea13cb093aa3c75c7b715612e1e745af3a7f2c56d8c.m3u8) |
 | 1773 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Fri Dec 29 2023 12:13:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 29 2023 14:08:28 GMT+0000 (Coordinated Universal Time)**
