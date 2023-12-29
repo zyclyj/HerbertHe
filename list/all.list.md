@@ -25,7 +25,7 @@
 | 19 | [SD]5star | [SD 5star](https://epg.pw/stream/106ef17cafcb5f4ca0ae663f883b2dcc617dd2a8f261481e14c1837e99796412.ctv) |
 | 20 | [HD]70s cinema | [HD 70s cinema](https://epg.pw/stream/4bd307567d82856dd8bf61dba1055c7194886d9ca6515d04e938cf6621066ed0.m3u8) |
 | 21 | [HD]8 MEDIACORP | [HD 8 MEDIACORP](https://epg.pw/stream/667c330422e6ede59a569dcf2751efc263d459700b074ea415e7e3caf87aa65a.ctv) |
-| 22 | [SD]8TV MALAYSIA | [SD 8TV MALAYSIA](https://epg.pw/stream/76b4de2b6189e38705484d4af9e782e7266042b2d029168372bf52961537642e.ctv) |
+| 22 | [SD]8TV MALAYSIA | [SD 8TV MALAYSIA](https://epg.pw/stream/7c3f0db6da38ba6437b26aee84f408d47195be82fcf704784d397e929fb0bc74.ctv) |
 | 23 | [SD]9 волна | [SD 9 волна](https://epg.pw/stream/c9510f9c84d6933391375a59eeb1f8d1a801fe6e72c359e47acdee9919f5a559.m3u8) |
 | 24 | [HD]9x tashan | [HD 9x tashan](https://epg.pw/stream/5b94ef6edb270be3b965f20775917e3099cbfaaaa4aec5cc0df989a9d467ec5d.m3u8) |
 | 25 | [VGA]9xm | [VGA 9xm](https://epg.pw/stream/51fc1ab3e6ee588eddca19b8e4a5d3d899e6c156951e3e93e119578e0a0f1740.m3u8) |
@@ -448,32 +448,32 @@
 | 442 | [HD]TLC HD | [HD TLC HD](https://epg.pw/stream/8256a22196ba54d406e2bef7b4852813d7d85613546a2f731749abdd34ab3c13.ctv) |
 | 443 | [SD]tnt hd | [SD tnt hd](https://epg.pw/stream/af094f870c273e17698b0b498a8dd3193f6b4859725a7a02e2e44e27191c6d6a.m3u8) |
 | 444 | [SD]tokyo mx1 | [SD tokyo mx1](https://epg.pw/stream/16ce5800fa31bc8bd37719025713151e9d097ffd281173082dd9b9b39edbbd0e.m3u8) |
-| 445 | [HD]TRANS 7 | [HD TRANS 7](https://epg.pw/stream/61ef96728840a1726612c0ad3ac581475941d4bb7f3e959bcb1fbb0fdb6e740e.ctv) |
-| 446 | [HD]TV ALHIJRAH | [HD TV ALHIJRAH](https://epg.pw/stream/c58ba03db52bd540a4f1361a936a97ee6f537fb4db743f6b9b4024844ca9ed45.ctv) |
-| 447 | [BD]テレビ朝日 | [BD テレビ朝日](https://epg.pw/stream/7a54a08482239f62f97dbcd05a1e9d13158cbc640953c78614aace2a1a6e9913.ctv) |
-| 448 | [VGA]tv nova play | [VGA tv nova play](https://epg.pw/stream/c0a8e6a079dea096f6fb6c437910622c3219b014238691f3d6ad30bd24cbc50c.m3u8) |
-| 449 | [HD]TV1 Malaysia | [HD TV1 Malaysia](https://epg.pw/stream/b0f0060f14d02e9f1b3887556ef2aa66624846a89dc30699021b06281de81dbf.ctv) |
-| 450 | [HD]TV2 MALAYSIA | [HD TV2 MALAYSIA](https://epg.pw/stream/ce094293f53c0a1dea40084583e18de14b0ac29c97f94b080cebbddb2a497e62.ctv) |
-| 451 | [VGA]TV3 MALAYSIA | [VGA TV3 MALAYSIA](https://epg.pw/stream/d4e2f246169e91204e32045ae68cedcda1fffc4cd19b63c0948ec242ce82953b.ctv) |
-| 452 | [HD]tv5 hd | [HD tv5 hd](https://epg.pw/stream/56199538b07b1202bcacabfdb002454b3d41d6268e5f96586504e9125ef97487.m3u8) |
-| 453 | [SD]TV9 MALAYSIA | [SD TV9 MALAYSIA](https://epg.pw/stream/8daf89557f54376215e3de8bbc6cc246966b0b00804448afa5836cdf69fdd807.ctv) |
-| 454 | [BD]tvb j2 | [BD tvb j2](https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv) |
-| 455 | [HD]TVB???? | [HD TVB????](https://epg.pw/stream/20a825bb2197792ae8717c5de7e935b979fb2cb8717ba986d360d080582755cb.ctv) |
-| 456 | [BD]tvbs | [BD tvbs](https://epg.pw/stream/48c1bb849cfa3885d40f833a7b014c1f17f6037209dcba94107576fe258955fe.m3u8) |
-| 457 | [HD]TVBS ASIA | [HD TVBS ASIA](https://epg.pw/stream/7e50dcdb61d95e71d1ae2b6869fc17a77c859593eefb119ba0f65020610469c1.ctv) |
-| 458 | [BD]tvbs亚洲 | [BD tvbs亚洲](https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8) |
-| 459 | [VGA]tvb 经典台 | [VGA tvb 经典台](https://epg.pw/stream/08cb3108d4bae67612d04882d054f148984af77e8b6758dae080cf6903abe231.ctv) |
-| 460 | [SD]tvb翡翠台 | [SD tvb翡翠台](https://epg.pw/stream/b1bedc34e0cd84c712106b10fa7bd2055a46898678c37e35aebe43290c2c8a1f.m3u8) |
-| 461 | [HD]tv max | [HD tv max](https://epg.pw/stream/65b185687defc41c286e353b6f8f2425e9d599909083ba8c841bc574802503cd.m3u8) |
-| 462 | [HD]TVN | [HD TVN](https://epg.pw/stream/448c76a69dda393f3d20528357dbe245ed4eae94b9d5c11fd80d7541b9597e88.ctv) |
-| 463 | [VGA]TVRI | [VGA TVRI](https://epg.pw/stream/100c159cdce2269da0f3212727d45dba378c14f176078da5498cd6f3a42641fc.ctv) |
-| 464 | [HD]tvt | [HD tvt](https://epg.pw/stream/c781f6562d4119f833cc3e04bc89c10c6bcbb6ae0d6089d00aa2ba1c268902d4.m3u8) |
-| 465 | [HD]tagesschau 24 (720p) | [HD tagesschau 24 (720p)](https://epg.pw/stream/1f3a5715dba1a825e40eb742423c1e120959f44ca1c84d62c9e8ffaae83887d8.m3u8) |
-| 466 | [HD]telemedellín | [HD telemedellín](https://epg.pw/stream/9223e98c831f286769f5630a292cbaa2c4c62e955c46e03a93bc415daf798873.m3u8) |
-| 467 | [VGA]teleticino | [VGA teleticino](https://epg.pw/stream/ef505f9bdb77b1cfee5a063184f92491de57ae2736f8a29d4a756087138a11fa.m3u8) |
-| 468 | [HD]tempo tv | [HD tempo tv](https://epg.pw/stream/39f8ccbf5a9d40cf8d4fdb79f704471e0514a62a809d3ed6ec10a447d441a6a6.m3u8) |
-| 469 | [HD]rtn tv | [HD rtn tv](https://epg.pw/stream/147905ef4b5423d7b00c033c5a408763af26ca5fe75216aa3844f45c48d0fb5d.m3u8) |
-| 470 | [VGA]Trans TV | [VGA Trans TV](https://epg.pw/stream/e2ec622b8717721b52cfc5e653bc891e132b0f25be5da58b25a00812a4cb27cb.ctv) |
+| 445 | [HD]TV ALHIJRAH | [HD TV ALHIJRAH](https://epg.pw/stream/c58ba03db52bd540a4f1361a936a97ee6f537fb4db743f6b9b4024844ca9ed45.ctv) |
+| 446 | [BD]テレビ朝日 | [BD テレビ朝日](https://epg.pw/stream/7a54a08482239f62f97dbcd05a1e9d13158cbc640953c78614aace2a1a6e9913.ctv) |
+| 447 | [VGA]tv nova play | [VGA tv nova play](https://epg.pw/stream/c0a8e6a079dea096f6fb6c437910622c3219b014238691f3d6ad30bd24cbc50c.m3u8) |
+| 448 | [HD]TV1 Malaysia | [HD TV1 Malaysia](https://epg.pw/stream/b0f0060f14d02e9f1b3887556ef2aa66624846a89dc30699021b06281de81dbf.ctv) |
+| 449 | [HD]TV2 MALAYSIA | [HD TV2 MALAYSIA](https://epg.pw/stream/ce094293f53c0a1dea40084583e18de14b0ac29c97f94b080cebbddb2a497e62.ctv) |
+| 450 | [VGA]TV3 MALAYSIA | [VGA TV3 MALAYSIA](https://epg.pw/stream/d4e2f246169e91204e32045ae68cedcda1fffc4cd19b63c0948ec242ce82953b.ctv) |
+| 451 | [HD]tv5 hd | [HD tv5 hd](https://epg.pw/stream/56199538b07b1202bcacabfdb002454b3d41d6268e5f96586504e9125ef97487.m3u8) |
+| 452 | [SD]TV9 MALAYSIA | [SD TV9 MALAYSIA](https://epg.pw/stream/8daf89557f54376215e3de8bbc6cc246966b0b00804448afa5836cdf69fdd807.ctv) |
+| 453 | [BD]tvb j2 | [BD tvb j2](https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv) |
+| 454 | [HD]TVB???? | [HD TVB????](https://epg.pw/stream/20a825bb2197792ae8717c5de7e935b979fb2cb8717ba986d360d080582755cb.ctv) |
+| 455 | [BD]tvbs | [BD tvbs](https://epg.pw/stream/48c1bb849cfa3885d40f833a7b014c1f17f6037209dcba94107576fe258955fe.m3u8) |
+| 456 | [HD]TVBS ASIA | [HD TVBS ASIA](https://epg.pw/stream/7e50dcdb61d95e71d1ae2b6869fc17a77c859593eefb119ba0f65020610469c1.ctv) |
+| 457 | [BD]tvbs亚洲 | [BD tvbs亚洲](https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8) |
+| 458 | [VGA]tvb 经典台 | [VGA tvb 经典台](https://epg.pw/stream/08cb3108d4bae67612d04882d054f148984af77e8b6758dae080cf6903abe231.ctv) |
+| 459 | [SD]tvb翡翠台 | [SD tvb翡翠台](https://epg.pw/stream/b1bedc34e0cd84c712106b10fa7bd2055a46898678c37e35aebe43290c2c8a1f.m3u8) |
+| 460 | [HD]tv max | [HD tv max](https://epg.pw/stream/65b185687defc41c286e353b6f8f2425e9d599909083ba8c841bc574802503cd.m3u8) |
+| 461 | [HD]TVN | [HD TVN](https://epg.pw/stream/448c76a69dda393f3d20528357dbe245ed4eae94b9d5c11fd80d7541b9597e88.ctv) |
+| 462 | [VGA]TVRI | [VGA TVRI](https://epg.pw/stream/100c159cdce2269da0f3212727d45dba378c14f176078da5498cd6f3a42641fc.ctv) |
+| 463 | [HD]tvt | [HD tvt](https://epg.pw/stream/c781f6562d4119f833cc3e04bc89c10c6bcbb6ae0d6089d00aa2ba1c268902d4.m3u8) |
+| 464 | [HD]tagesschau 24 (720p) | [HD tagesschau 24 (720p)](https://epg.pw/stream/1f3a5715dba1a825e40eb742423c1e120959f44ca1c84d62c9e8ffaae83887d8.m3u8) |
+| 465 | [HD]telemedellín | [HD telemedellín](https://epg.pw/stream/9223e98c831f286769f5630a292cbaa2c4c62e955c46e03a93bc415daf798873.m3u8) |
+| 466 | [VGA]teleticino | [VGA teleticino](https://epg.pw/stream/ef505f9bdb77b1cfee5a063184f92491de57ae2736f8a29d4a756087138a11fa.m3u8) |
+| 467 | [HD]tempo tv | [HD tempo tv](https://epg.pw/stream/39f8ccbf5a9d40cf8d4fdb79f704471e0514a62a809d3ed6ec10a447d441a6a6.m3u8) |
+| 468 | [HD]rtn tv | [HD rtn tv](https://epg.pw/stream/147905ef4b5423d7b00c033c5a408763af26ca5fe75216aa3844f45c48d0fb5d.m3u8) |
+| 469 | [HD]Trans 7 | [HD Trans 7](https://epg.pw/stream/a1e76fd7f5b86867759ba493fda8821868b9fc051bd044cf77e3c1c9022c1482.ctv) |
+| 470 | [VGA]Trans TV | [VGA Trans TV](https://epg.pw/stream/fa29d1cc99b0706bae99184274fcb9a3591f4d163e28367ebbe9307270f7d883.ctv) |
 | 471 | [BD]travel channel | [BD travel channel](https://epg.pw/stream/4294eb516d30ded8c5f8102815c37b75f52affe3093e287ead6873bf9b19ec77.m3u8) |
 | 472 | [HD]trutv east | [HD trutv east](https://epg.pw/stream/a32f692b15853858d182f1ec05ec50b840e4244e7213e07c2b6c822879cd0144.m3u8) |
 | 473 | [HD]TVNMOVIES | [HD TVNMOVIES](https://epg.pw/stream/d5cc21c9335a1e0e02ddd13678e73fdd947e528687e06c96003105786fa3f0d5.ctv) |
@@ -1778,4 +1778,4 @@
 | 1772 | [VGA]龙华戏剧 | [VGA 龙华戏剧](https://epg.pw/stream/78528078955ce71bc31c6ea13cb093aa3c75c7b715612e1e745af3a7f2c56d8c.m3u8) |
 | 1773 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Fri Dec 29 2023 14:08:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 29 2023 16:12:10 GMT+0000 (Coordinated Universal Time)**
