@@ -25,8 +25,8 @@
 | 19 | [BD]mv音乐 | [BD mv音乐](https://epg.pw/stream/7a700d96ded14e3e47475d5fb6171e8fd90405389c3794f24fbe6e0f7824b7e6.ctv) |
 | 20 | [BD]七彩戏剧 8m | [BD 七彩戏剧 8m](https://epg.pw/stream/31aad8abb25ca10cc60edf1cfafd46dcd6f1eb3e43f68b9c13afc52ba00862b9.ctv) |
 | 21 | [SD]三沙卫视[ipv6] | [SD 三沙卫视 ipv6](https://epg.pw/stream/fc49c564c870b78b1a3655d913ca8a4fe4e31f58db2da34caedc0761a3e51256.m3u8) |
-| 22 | [BD]上海新闻综合[ipv6] | [BD 上海新闻综合 ipv6](https://epg.pw/stream/bb72de74a8ef1f4f2324994e25dc928a4a36232925487ee8c3b53f2be462df83.m3u8) |
-| 23 | [BD]上海纪实 8m | [BD 上海纪实 8m](https://epg.pw/stream/43737f6fa0addf531e74b95452c3b3f3fdc80d6e25125f53dc5fb46012d8c128.ctv) |
+| 22 | [BD]上海纪实 8m | [BD 上海纪实 8m](https://epg.pw/stream/43737f6fa0addf531e74b95452c3b3f3fdc80d6e25125f53dc5fb46012d8c128.ctv) |
+| 23 | [BD]上虞新闻综合 | [BD 上虞新闻综合](https://epg.pw/stream/e63025abaea02e0d05819b11fe7e0db7abb525d2204b9ca0e62bde8ab371d68d.m3u8) |
 | 24 | [BD]五星体育[ipv6] | [BD 五星体育 ipv6](https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.m3u8) |
 | 25 | [SD]优漫卡通 | [SD 优漫卡通](https://epg.pw/stream/5aa56206f1fe7cc4d9507d553c47e53ea9c0ef79c6b52d3f3e1baa01ecfcaf63.m3u8) |
 | 26 | [BD]内蒙古文体娱乐 | [BD 内蒙古文体娱乐](https://epg.pw/stream/3e3a5613a7d58aabfefe76df40a9f69517a73afc939cb080ebcd56723a461cc0.m3u8) |
@@ -154,4 +154,4 @@
 | 148 | [VGA]黑龙江新闻 | [VGA 黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 | 149 | [HD]点掌财经 | [HD 点掌财经](https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8) |
 
-Updated at **Thu Dec 28 2023 22:08:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 29 2023 00:33:28 GMT+0000 (Coordinated Universal Time)**
