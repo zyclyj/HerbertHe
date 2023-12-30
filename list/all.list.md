@@ -227,7 +227,7 @@
 | 221 | [BD]chcchc动作电影-chc action movies[ipv6] | [BD chcchc动作电影-chc action movies ipv6](https://epg.pw/stream/0f63565e62aa80f7239ee3a1920efc364cecb621a534e7406e2cd8f3a7d2bd22.m3u8) |
 | 222 | [HD]ช่อง rakuten family movies | [HD ช่อง rakuten family movies](https://epg.pw/stream/cb941d80cf6f4cf188e1349de966121c817bf6f42389cd56df0b62d713adc6cf.m3u8) |
 | 223 | [HD]FOX MOVIES | [HD FOX MOVIES](https://epg.pw/stream/317a96263326bd9e196e549899795a5382b92b544fd7eac9787954985c6bd47e.ctv) |
-| 224 | [VGA]FOX NEWS | [VGA FOX NEWS](https://epg.pw/stream/56ab0730b9e036463b2aaa837ea665a7605ba22608cc997f65f97b815505ce27.ctv) |
+| 224 | [VGA]FOX NEWS | [VGA FOX NEWS](https://epg.pw/stream/49ed0870d3bdff7e2e99bd8bca15558309b8df1293464016db4f2cb7cb85f37c.ctv) |
 | 225 | [HD]fox newsnow | [HD fox newsnow](https://epg.pw/stream/516cd8fec2b2c85c5d66b50e360a503ccde03570a6701514765b03e42443d43a.m3u8) |
 | 226 | [HD]Fox Sports 2 | [HD Fox Sports 2](https://epg.pw/stream/cdea0ea543c4047e676a4d18866993520794c6b9bac28ca1f5b57d19d20d3519.ctv) |
 | 227 | [SD]fox sport 505 | [SD fox sport 505](https://epg.pw/stream/561cdaa609412e0457eecd0b80019d40c4dba700c559e62eadee2b2022d915d6.ctv) |
@@ -352,7 +352,7 @@
 | 346 | [HD]NHK G | [HD NHK G](https://epg.pw/stream/1da42fae77d86738fe5d675a9f425f692160ed5bde551f7be0651d33be29bece.ctv) |
 | 347 | [BD]nhk world japan | [BD nhk world japan](https://epg.pw/stream/f96793c2f61fa90fd9af91a0071578257eb38c51e6c889bf1def751d521de0c7.m3u8) |
 | 348 | [BD]NICK JR. USA | [BD NICK JR. USA](https://epg.pw/stream/07abbb2a9d0733d1d4cab2bb1992c6c78769ed129a3354fa71b1775a302873f5.ctv) |
-| 349 | [HD]NICKELODEON | [HD NICKELODEON](https://epg.pw/stream/9c971a79687506bc1e01f76e7dac3fcb48a5091e94f47bcc8bb48eda923e2f7d.ctv) |
+| 349 | [HD]NICKELODEON | [HD NICKELODEON](https://epg.pw/stream/7a63f84ecfc28b1422a46ba57c62ea75679cc431052459d8abcaf14dfc94ecae.ctv) |
 | 350 | [HD]Now新闻 | [HD Now新闻](https://epg.pw/stream/a645171001243a66589bf555ba999f4c91cb89ae480821b59f9ca79aec892c69.ctv) |
 | 351 | [HD]NTV NEWS 24 | [HD NTV NEWS 24](https://epg.pw/stream/293259a13176bce43dc1ebe4fa6c1edbf5967ab22130996ea34a151030c4cc32.m3u8) |
 | 352 | [SD]NTV7 MALAYSIA | [SD NTV7 MALAYSIA](https://epg.pw/stream/25d9b1eaa307f47882242ae40d95bee897c33145a379a5becc755777936f71dc.ctv) |
@@ -1781,4 +1781,4 @@
 | 1775 | [HD]龙华戏剧 | [HD 龙华戏剧](https://epg.pw/stream/78528078955ce71bc31c6ea13cb093aa3c75c7b715612e1e745af3a7f2c56d8c.m3u8) |
 | 1776 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Sat Dec 30 2023 04:10:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 30 2023 06:10:46 GMT+0000 (Coordinated Universal Time)**
