@@ -86,7 +86,7 @@
 | 80 | [HD]ASTRO Star Vijay | [HD ASTRO Star Vijay](https://epg.pw/stream/d773cba7bc0ea7756b16b5ecec980ba1247752eacca1986c2d50fb6fd5c67357.ctv) |
 | 81 | [BD]ASSP2 | [BD ASSP2](https://epg.pw/stream/4549f42e0edfc73b7c4a69ce6daff98762424bc4d0081b613547061cca83a79a.ctv) |
 | 82 | [BD]Astro Supersports 1 | [BD Astro Supersports 1](https://epg.pw/stream/45f55e3aac45fb0a9060ade3f30be73c934f029ec1ac6fd57f693fcb895bc2e6.ctv) |
-| 83 | [SD]Astro Supersports 2 | [SD Astro Supersports 2](https://epg.pw/stream/d310575b5b66bb96a30a79597bbd2115db45e059b8b9be92eaffe1fc988313e7.ctv) |
+| 83 | [BD]AstroSupersports2 | [BD AstroSupersports2](https://epg.pw/stream/b7f036d81bbf1a7fec08b37fc7b7f1a92fd5a3aecceaf9c7c10b7bf8a4f402f1.ctv) |
 | 84 | [BD]AstroSupersports3 | [BD AstroSupersports3](https://epg.pw/stream/66c0b6ba1fd4bd87c618bf833ff9da7605546f2493a91f632074f71b59fd5f77.ctv) |
 | 85 | [SD]astrotv | [SD astrotv](https://epg.pw/stream/61b47eb5e7551f99a32454d3ba9b9baf0f579ea58e697ed0e65db4983302caa5.m3u8) |
 | 86 | [HD]Astro Vellithirai | [HD Astro Vellithirai](https://epg.pw/stream/0818c0f97f32682b7a83af5434ce0af8d849eae7d1b427f251386abee0749952.ctv) |
@@ -1781,4 +1781,4 @@
 | 1775 | [HD]龙华戏剧 | [HD 龙华戏剧](https://epg.pw/stream/cf908cfdb24cc4a8297f6f7fd955ca7ef3579e892600280fde9cdcfcffb4e481.m3u8) |
 | 1776 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Sat Dec 30 2023 14:07:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 30 2023 16:10:13 GMT+0000 (Coordinated Universal Time)**
