@@ -47,4 +47,4 @@
 | 41 | CETV1 (576p) | [CETV1 (576p)](http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1) |
 | 42 | CETV2 (576p) | [CETV2 (576p)](http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2) |
 
-Updated at **Sun Dec 31 2023 20:09:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Dec 31 2023 22:07:58 GMT+0000 (Coordinated Universal Time)**
