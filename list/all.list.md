@@ -58,7 +58,7 @@
 | 52 | [HD]ASTRORANIA | [HD ASTRORANIA](https://epg.pw/stream/b48cebfb4aa999f1429d0afc59471ca1496b6bfd55d30496d976e4bea2c9ed09.ctv) |
 | 53 | [HD]Astro华丽台 | [HD Astro华丽台](https://epg.pw/stream/cc9757258142a96202ea75028524ef311631a356c54ac11533dbdb959315d5c9.ctv) |
 | 54 | [HD]ASTRO欢喜台 | [HD ASTRO欢喜台](https://epg.pw/stream/60e080cd3c88c9a878b7ece36534f31c69fc686a914fd37a83fb61e1294c9a84.ctv) |
-| 55 | [BD]at-x | [BD at-x](https://epg.pw/stream/f495cb839dd23ec16e99405c5aa4064963fde7e1bad17a99a7b48fc63cf7e4f1.m3u8) |
+| 55 | [HD]at-x | [HD at-x](https://epg.pw/stream/f495cb839dd23ec16e99405c5aa4064963fde7e1bad17a99a7b48fc63cf7e4f1.m3u8) |
 | 56 | [HD]axn | [HD axn](https://epg.pw/stream/d290befff40ea26516e35ccad44726d0923e8063f164c76ca294e4cb5f05a7a0.ctv) |
 | 57 | [HD]AXN HD | [HD AXN HD](https://epg.pw/stream/66c75c5980cf786653338a2f76d4bdc43e618291dafb8c617bd5d827671b3e83.ctv) |
 | 58 | [VGA]AFN | [VGA AFN](https://epg.pw/stream/bebd8e80bf5e50895fff962835e9df167462a85ceae1b05394eb0f4cfb40c0d7.ctv) |
@@ -257,7 +257,7 @@
 | 251 | [BD]HBO East | [BD HBO East](https://epg.pw/stream/8c50158d2f6ebfb9a9877123080676c00f69248803e800393bcaac3710b375fc.ctv) |
 | 252 | [HD]HBO FAMILY | [HD HBO FAMILY](https://epg.pw/stream/1e0313b16be93890f59369d3155dcc66cb5d11ff0cb6cb9ed2630415f6ea5534.ctv) |
 | 253 | [BD]HBO FAMILY USA | [BD HBO FAMILY USA](https://epg.pw/stream/ee0a22830201e4100f50862c8aaa66a5d4956feb6a64fcbe933a1b16662342f0.ctv) |
-| 254 | [HD]HBO HD | [HD HBO HD](https://epg.pw/stream/5502d11e196202a9fcea8e98efcbf31a6dd9138e6c941f3ef6e8618e5ee04ada.ctv) |
+| 254 | [BD]HBO HD | [BD HBO HD](https://epg.pw/stream/5502d11e196202a9fcea8e98efcbf31a6dd9138e6c941f3ef6e8618e5ee04ada.ctv) |
 | 255 | [BD]HBO HD USA | [BD HBO HD USA](https://epg.pw/stream/e48b9d5182a62052199edb6bcce0aceeb55a5c044685058a0e9afec1676ba4e1.ctv) |
 | 256 | [HD]HBO HITS | [HD HBO HITS](https://epg.pw/stream/10e49fe6148dda2308bba18977b2e9727858db1537d7e5efa9b36dc73a16a3ca.ctv) |
 | 257 | [HD]HBO HITS | [HD HBO HITS](https://epg.pw/stream/5ca2bf8249b6cfa0d801a0d46e943862948e7acf2a4e2d6196bc0a1c24c242bb.ctv) |
@@ -730,7 +730,7 @@
 | 724 | [BD]etv | [BD etv](https://epg.pw/stream/ad0d706af3006aab1b254f82a568778b9cdb79165631e40ed106dffaa62e4077.m3u8) |
 | 725 | [HD]etv+ (720p) | [HD etv+ (720p)](https://epg.pw/stream/9e72f6806d0aafa13e991032598b5bffeec6eb6343cd02b3ba9b9be28bc8124e.m3u8) |
 | 726 | [HD]etv2 (720p) | [HD etv2 (720p)](https://epg.pw/stream/3e2dbc154bc22a259a4c5a258b94814c225177247b57b8610fd29d553ff5b3b4.m3u8) |
-| 727 | [VGA]eureka | [VGA eureka](https://epg.pw/stream/8ff465ba30cd71b0977d41889417287c01d5578612fa9fc74b7313f3f7c2fb14.m3u8) |
+| 727 | [BD]eureka | [BD eureka](https://epg.pw/stream/8ff465ba30cd71b0977d41889417287c01d5578612fa9fc74b7313f3f7c2fb14.m3u8) |
 | 728 | [HD]euronews | [HD euronews](https://epg.pw/stream/1fea3b77534dbe1dc8cd996e0dcf934cff93a8d7ef1b4e69cdda3b15b1505d75.m3u8) |
 | 729 | [HD]euronews english | [HD euronews english](https://epg.pw/stream/63ea86a01926017a8ef84abb2a3ce1fe31f5ce3c791dbcb4cde08a1602f005a0.m3u8) |
 | 730 | [BD]euronews french | [BD euronews french](https://epg.pw/stream/a8fac3b4ee1ce1816b27e97cc3966bbf7c2006fe3c33334b34873d59219e31d5.m3u8) |
@@ -1167,7 +1167,7 @@
 | 1161 | [BD]tn todo noticias (1080p) | [BD tn todo noticias (1080p)](https://epg.pw/stream/3af4fa110888f54a28ce8f03612a559d0752c8c813cbc96119f7b92af5f9b488.m3u8) |
 | 1162 | [BD]tnn2 | [BD tnn2](https://epg.pw/stream/b0182bde6f5debbc0d207f3bad727e42bfcdacb45ed98eed97b1ec818972fce1.m3u8) |
 | 1163 | [BD]tnn24 | [BD tnn24](https://epg.pw/stream/449910c577fa4b9756bfddcdd0bfe960ed1a74c95de59e032669acfc20af5315.m3u8) |
-| 1164 | [BD]tnt | [BD tnt](https://epg.pw/stream/af026df011f1c2cf773e3698f68aa7747094d36dfbdbd434144958a4f0e5ed04.ctv) |
+| 1164 | [BD]tntv | [BD tntv](https://epg.pw/stream/446d5790bb32446d4fa0080dec7f17705a6fbc1bffe2a4319bad33c0ed8bb187.m3u8) |
 | 1165 | [BD]tokyo mx2 | [BD tokyo mx2](https://epg.pw/stream/80a4bd174c194730231712667a605d3a4ffffa88382fe8d1591ecf19b0a85f65.m3u8) |
 | 1166 | [HD]tomato | [HD tomato](https://epg.pw/stream/0a75d1407880165806daca0ce2f0bcac178c98dae9a1a0248df704ecee370760.m3u8) |
 | 1167 | [VGA]toon goggles (720p) [not 24/7] | [VGA toon goggles (720p)  not 24/7](https://epg.pw/stream/b324b57b4fe80ff24d318f5e29ebce72023d96191b23792fc64b4d5fa7c6e48a.m3u8) |
@@ -1776,4 +1776,4 @@
 | 1770 | [HD]龙华戏剧 | [HD 龙华戏剧](https://epg.pw/stream/cf908cfdb24cc4a8297f6f7fd955ca7ef3579e892600280fde9cdcfcffb4e481.m3u8) |
 | 1771 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Sun Dec 31 2023 00:44:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Dec 31 2023 02:23:44 GMT+0000 (Coordinated Universal Time)**
