@@ -183,7 +183,7 @@
 | 177 | [HD]canal macau | [HD canal macau](https://epg.pw/stream/1647a74bda34282a2b5f7a86647302b408f107f98586f5df7f05539508d3034f.m3u8) |
 | 178 | [HD]regional mx | [HD regional mx](https://epg.pw/stream/c9bafdadff786d1e8848a24cdb8af0f2995dfaa8c01ab611633df5472484be4a.m3u8) |
 | 179 | [BD]eduvision | [BD eduvision](https://epg.pw/stream/94f0a8a30c27cb8bf2460c24c0bf2235365f1adb4a8de776fe8c7fb568134431.m3u8) |
-| 180 | [SD]Cartoon Network | [SD Cartoon Network](https://epg.pw/stream/3ecd1c6d99e3991e5a44d2eed1a0ea23e9ebc997cb89590fdbdfd92d0a889013.ctv) |
+| 180 | [BD]Cartoon Network | [BD Cartoon Network](https://epg.pw/stream/1abaca0cc508a7dcf17ec55a210c7cf78fb3c48efb9ddec2d129c3601625f442.ctv) |
 | 181 | [SD]Celestial Movies | [SD Celestial Movies](https://epg.pw/stream/c5590d1bda123e0d832585992d1f05d8ab63b0c7195b8b531a845f1085834f1b.ctv) |
 | 182 | [HD]chile channel | [HD chile channel](https://epg.pw/stream/f4b420136e3d2ce8a6cafcd3d2777a113dc0ba5bd9061973b2ad6a04513a1b57.m3u8) |
 | 183 | [HD]channel 7 | [HD channel 7](https://epg.pw/stream/6f0bc0a13166087d2a1d80556fbc20d4729d9676e7f804aceef45ffeee641bcf.m3u8) |
@@ -213,7 +213,7 @@
 | 207 | [HD]E! ENTERTAINMENT | [HD E! ENTERTAINMENT](https://epg.pw/stream/9ea2daafd1b88b1538dea6cb6070648498c4470123c0469156a94ec636123034.ctv) |
 | 208 | [VGA]ebs kids (400p) | [VGA ebs kids (400p)](https://epg.pw/stream/0410d7122b0d747831bffdcdc1c3ba4027548b9b4d03125ee9d7d433c0f2112a.m3u8) |
 | 209 | [VGA]elta体育-2 | [VGA elta体育-2](https://epg.pw/stream/6a94c7dec3f7ea54d3e91a85a46b5bf8ae1f5d65eb2aef0fff9494eda79ed90b.ctv) |
-| 210 | [HD]ESPN | [HD ESPN](https://epg.pw/stream/2ab845fee926d95acc9ab8edd6434cff12b51df09e9d5cb1931fa44ca7b76c96.ctv) |
+| 210 | [HD]ESPN | [HD ESPN](https://epg.pw/stream/44917dfaa2ff181af4222bfae542af394ad4aa0f37c5d515fb6ff5ae9b1f0fda.ctv) |
 | 211 | [HD]ESPN 2 | [HD ESPN 2](https://epg.pw/stream/9cf6ba673e6ccb801d66ce3079402f6ce5b9f71150705b1d62ae54650da68983.ctv) |
 | 212 | [HD]ESPNNEWS | [HD ESPNNEWS](https://epg.pw/stream/6b46463d391fdb906ad68961190d42f49e63ff676dbde574c3ab1e6b3444e0fa.ctv) |
 | 213 | [VGA]eye 戏剧台 | [VGA eye 戏剧台](https://epg.pw/stream/75aa8ed8d0e347ae2b3d0b30a907c64c246cf5d1b140d3b644c7fa736b8020c9.ctv) |
@@ -358,7 +358,7 @@
 | 352 | [HD]NatGeoHD | [HD NatGeoHD](https://epg.pw/stream/ba8147aee0841997e0211fe6652e5b7fbb8d91015d03e4698972d666214d4991.ctv) |
 | 353 | [HD]NatGeoWildHD | [HD NatGeoWildHD](https://epg.pw/stream/8ad25f0229bea689eb9eb3a9cec782f8cb4e77edbf7e21bb69a7f29ab3ca874b.ctv) |
 | 354 | [BD]national geographic abu dhabi | [BD national geographic abu dhabi](https://epg.pw/stream/49689475716d93fcdbcc44ef2e38e779f7ebfe2fdd7769ad870de22612876b2b.m3u8) |
-| 355 | [HD]Net. | [HD Net.](https://epg.pw/stream/2a3c7e31de91cf2e7aa66992252a11cb3f3eaef9ccac02847c016691efb9e215.ctv) |
+| 355 | [HD]Net. | [HD Net.](https://epg.pw/stream/910e9d9f5cbb49beb087dc9182da30ecca67dc81ae1a85098fe03fd0a682e9fd.ctv) |
 | 356 | [BD]Netflix Horror | [BD Netflix Horror](https://epg.pw/stream/a17e34bfd67a5c9b81898f0ab3fd896d59b9b7008254c5f41b6b10c86a7ff36c.ctv) |
 | 357 | [BD]newtv超级电影[ipv6] | [BD newtv超级电影 ipv6](https://epg.pw/stream/38f48223d9233cdb32e6aa34a1e80835aaed997071bcdea5b4325f92697148fe.m3u8) |
 | 358 | [BD]newsmaxtv | [BD newsmaxtv](https://epg.pw/stream/ed041d6d05c3dbb7adeace1332768b5e6f323d6a7a1c15bed90cb5e6c9731ee8.m3u8) |
@@ -1776,4 +1776,4 @@
 | 1770 | [HD]龙华戏剧 | [HD 龙华戏剧](https://epg.pw/stream/cf908cfdb24cc4a8297f6f7fd955ca7ef3579e892600280fde9cdcfcffb4e481.m3u8) |
 | 1771 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Sun Dec 31 2023 04:10:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Dec 31 2023 06:11:05 GMT+0000 (Coordinated Universal Time)**
