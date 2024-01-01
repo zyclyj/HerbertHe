@@ -19,7 +19,7 @@
 | 13 | [BD]旅游卫视[ipv6] | [BD 旅游卫视 ipv6](https://epg.pw/stream/0a7895ab7d245925f9fe1bdcb3714e269b6ce032323f8acc84b36071893c0d78.m3u8) |
 | 14 | [BD]东南卫视[ipv6] | [BD 东南卫视 ipv6](https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8) |
 | 15 | [BD]东方卫视[ipv6] | [BD 东方卫视 ipv6](https://epg.pw/stream/96fb4677915219a69c151563855a231f0b7d6e7392e403e66e40af920843cb68.m3u8) |
-| 16 | [BD]江苏卫视 | [BD 江苏卫视](https://epg.pw/stream/e61d0b2ff70a89a4a13d126f4fa6bba8faaaf145a78470643dad104f2b23c889.m3u8) |
+| 16 | [BD]江苏卫视 | [BD 江苏卫视](https://epg.pw/stream/c820313a01ccf35b80f23ef104f866d422e22f5e9ad084b95f80c77d875bcbab.m3u8) |
 | 17 | [VGA]江西卫视 | [VGA 江西卫视](https://epg.pw/stream/712a9501771f77767d38d69d884e87056ee0cb44e57bb3f4e75f50d3d0ab05fb.m3u8) |
 | 18 | [BD]河北卫视[ipv6] | [BD 河北卫视 ipv6](https://epg.pw/stream/3d72ae947c8d574411b9d26bc49ef1b6e8c2c5bf3a55c97df0b37f0af5080a99.m3u8) |
 | 19 | [VGA]河南卫视 | [VGA 河南卫视](https://epg.pw/stream/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5a1718f7fe55.m3u8) |
@@ -40,4 +40,4 @@
 | 34 | [SD]青海卫视 | [SD 青海卫视](https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.m3u8) |
 | 35 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://epg.pw/stream/9ca1248cb879f1f8a1dad0dc59e7faa5129551175ade0b4a2bd2b503bcdd37c7.m3u8) |
 
-Updated at **Mon Jan 01 2024 06:13:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 01 2024 08:12:50 GMT+0000 (Coordinated Universal Time)**
