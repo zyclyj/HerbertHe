@@ -12,6 +12,5 @@
 | 6 | [BD]cctv8k超高清[ipv6] | [BD cctv8k超高清 ipv6](https://epg.pw/stream/12c4722b400606e9f17e446f03738627390aa03e60b7cea9a4fe15016cc6e079.m3u8) |
 | 7 | [SD]发现之旅 | [SD 发现之旅](https://epg.pw/stream/7cc7f757127592992b21f9768ff45940344d7049190add19359f61a05b3cf3a1.ctv) |
 | 8 | [BD]石狮综合 | [BD 石狮综合](https://epg.pw/stream/611e94f85d8e7b5016b9f15490d511f1bb8efa643a13d82e6f57cd2606c312e7.m3u8) |
-| 9 | [BD]风云足球[ipv6] | [BD 风云足球 ipv6](https://epg.pw/stream/429f44be8f007cfd67bf72ba165eb20871064218965c65efd1207c1c112b371c.m3u8) |
 
-Updated at **Mon Jan 01 2024 16:10:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 01 2024 18:11:33 GMT+0000 (Coordinated Universal Time)**
