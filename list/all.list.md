@@ -1723,4 +1723,4 @@
 | 1717 | [HD]龙华戏剧 | [HD 龙华戏剧](https://epg.pw/stream/cf908cfdb24cc4a8297f6f7fd955ca7ef3579e892600280fde9cdcfcffb4e481.m3u8) |
 | 1718 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Mon Jan 01 2024 14:08:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 01 2024 16:10:43 GMT+0000 (Coordinated Universal Time)**
