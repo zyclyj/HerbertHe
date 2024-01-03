@@ -22,11 +22,12 @@ EPG Sources are from:
 
 ## Matrix
 
-You can also use the services provided by Mirror Sites Matrix!
+You can also use the services provided by Mirror Sites Matrix! See <https://m3u.ibert.me> for more.
 
-| HTTP Protocol | URL | Auto-update frequence | IDC | Provider |
-| ------------- | --- | --------------------- | --- | -------- |
-| https | <https://iptv.b2og.com> | per 2h | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
+| HTTP Protocol | URL | Auto-update Frequence | Latest Updated | IDC | Provider |
+| ------------- | --- | --------------------- | --- | --- | -------- |
+| https | https://iptv.b2og.com | per 2h | Update Failed: **Forbidden** | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
+
 
 ## Channel
 
@@ -59,7 +60,7 @@ You can also use the services provided by Mirror Sites Matrix!
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Wed Jan 03 2024 04:19:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 03 2024 05:18:54 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
