@@ -35,4 +35,4 @@
 | 29 | CETV1 (576p) | [CETV1 (576p)](http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1) |
 | 30 | CETV2 (576p) | [CETV2 (576p)](http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2) |
 
-Updated at **Wed Jan 03 2024 05:18:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 03 2024 05:25:43 GMT+0000 (Coordinated Universal Time)**
