@@ -51,7 +51,7 @@
 | 45 | [HD]axn | [HD axn](https://epg.pw/stream/d290befff40ea26516e35ccad44726d0923e8063f164c76ca294e4cb5f05a7a0.ctv) |
 | 46 | [HD]AXNHD | [HD AXNHD](https://epg.pw/stream/76af7583b8bc0e551899c8de41b9a427b8d311897a269c5656467e7e0d197e2d.ctv) |
 | 47 | [VGA]AFN | [VGA AFN](https://epg.pw/stream/51762027ba84fd85f832d9208ddbf3cf8b3c713fb30b31300582d312d5ee3488.ctv) |
-| 48 | [HD]AL JAZEERA | [HD AL JAZEERA](https://epg.pw/stream/ca5d6d4661f219bdc11721ce476b5eda36793c9079abdb2c4bc6f96496f0d76e.ctv) |
+| 48 | [HD]AL JAZEERA | [HD AL JAZEERA](https://epg.pw/stream/82a1d92b5818d2ef4c2309fe2ccb45708b52a6d20318b233112277c3d22e835b.ctv) |
 | 49 | [VGA][巴林]almaareftv(350p)[622*350][622*350] | [VGA  巴林 almaareftv(350p) 622*350  622*350](https://epg.pw/stream/8dcb9ead2efa93b794c540e2df2495a090cabf85ad0b3b2bc42ece4135e54130.m3u8) |
 | 50 | [SD]al manar | [SD al manar](https://epg.pw/stream/95c453381bc0bc36985fe7d2897cd7a0f20aca6a1a2b5d375d436712dd7c91ed.m3u8) |
 | 51 | [BD]al rayyan | [BD al rayyan](https://epg.pw/stream/52e9ec3b3b152fe7c3929a464e10dd89bf3081d05400b6f0719c9d03c9a671dd.m3u8) |
@@ -1700,4 +1700,4 @@
 | 1694 | [HD]龙华戏剧 | [HD 龙华戏剧](https://epg.pw/stream/cf908cfdb24cc4a8297f6f7fd955ca7ef3579e892600280fde9cdcfcffb4e481.m3u8) |
 | 1695 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Thu Jan 04 2024 02:21:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 04 2024 04:10:52 GMT+0000 (Coordinated Universal Time)**
