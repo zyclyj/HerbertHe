@@ -144,7 +144,7 @@
 | 138 | [BD]福建综合 | [BD 福建综合](https://epg.pw/stream/867d02d1b551230756cef85fe91d8e12139f1f776852355b20ed80a3392ecbe2.ctv) |
 | 139 | [BD]福建经济生活 | [BD 福建经济生活](https://epg.pw/stream/0aa42e8a16095929792f32c76f3d6c032d81afdb7d436998919b0dcbed5572bc.ctv) |
 | 140 | [BD]福建电视剧 | [BD 福建电视剧](https://epg.pw/stream/2423f510dea7753519abedded9c0f641f6ecd0419009d3e6a1753f25d6ff56fd.m3u8) |
-| 141 | [BD]福建体育 | [BD 福建体育](https://epg.pw/stream/d554cfc516cbeadc65a4bb631b464fd6fe6cb5cb844851bef27c5edc0681ec45.ctv) |
+| 141 | [VGA]福建体育 | [VGA 福建体育](https://epg.pw/stream/d554cfc516cbeadc65a4bb631b464fd6fe6cb5cb844851bef27c5edc0681ec45.ctv) |
 | 142 | [BD]第一财经 | [BD 第一财经](https://epg.pw/stream/834002889b34e8fa1bb76ccdcba425dbcc59607ec573605f28fb21eab4d0a8e2.m3u8) |
 | 143 | [SD]绍兴新闻综合 | [SD 绍兴新闻综合](https://epg.pw/stream/0c479cc20f3eb20b09af243763f3f347b95748ccf86126cf662483e9a75c2e3c.m3u8) |
 | 144 | [VGA]自贡综合 | [VGA 自贡综合](https://epg.pw/stream/19e8bff2178c99aacf62481ac205d6a00c442a9eaf07238a7c6e96d4beaa5da0.ctv) |
@@ -173,4 +173,4 @@
 | 167 | [VGA]黑龙江新闻 | [VGA 黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 | 168 | [HD]点掌财经 | [HD 点掌财经](https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8) |
 
-Updated at **Thu Jan 04 2024 12:16:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 04 2024 14:08:55 GMT+0000 (Coordinated Universal Time)**

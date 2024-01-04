@@ -279,7 +279,7 @@ https://epg.pw/stream/867d02d1b551230756cef85fe91d8e12139f1f776852355b20ed80a339
 https://epg.pw/stream/0aa42e8a16095929792f32c76f3d6c032d81afdb7d436998919b0dcbed5572bc.ctv
 #EXTINF:-1 tvg-name="福建电视剧" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530232528048400_14.jpg" group-title="电影",[BD]福建电视剧
 https://epg.pw/stream/2423f510dea7753519abedded9c0f641f6ecd0419009d3e6a1753f25d6ff56fd.m3u8
-#EXTINF:-1 tvg-name="福建体育" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530233347201646_11.jpg" group-title="运动",[BD]福建体育
+#EXTINF:-1 tvg-name="福建体育" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530233347201646_11.jpg" group-title="运动",[VGA]福建体育
 https://epg.pw/stream/d554cfc516cbeadc65a4bb631b464fd6fe6cb5cb844851bef27c5edc0681ec45.ctv
 #EXTINF:-1 tvg-name="第一财经" tvg-id="14183" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2019/01/16/large/20190116221721249151_66.jpg" group-title="新闻",[BD]第一财经
 https://epg.pw/stream/834002889b34e8fa1bb76ccdcba425dbcc59607ec573605f28fb21eab4d0a8e2.m3u8
