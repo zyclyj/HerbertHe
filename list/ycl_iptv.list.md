@@ -4,7 +4,7 @@
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
-| 1 | CCTV-1 | [CCTV-1](http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8) |
+| 1 | CCTV-1 | [CCTV-1](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8) |
 | 2 | CCTV-2 | [CCTV-2](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8) |
 | 3 | CCTV-3 | [CCTV-3](http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8) |
 | 4 | CCTV-4 | [CCTV-4](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8) |
@@ -125,4 +125,4 @@
 | 119 | 高清电影 | [高清电影](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
 | 120 | 华数超清 | [华数超清](http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId) |
 
-Updated at **Wed Jan 03 2024 22:08:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 04 2024 00:41:40 GMT+0000 (Coordinated Universal Time)**
