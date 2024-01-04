@@ -26,9 +26,9 @@
 | 20 | [BD]cctv8[ipv6] | [BD cctv8 ipv6](https://epg.pw/stream/113f0eb04d33840b7642af563255df49292c8d9c7755bf498df78cb7a315f322.m3u8) |
 | 21 | [VGA]cctv9 | [VGA cctv9](https://epg.pw/stream/468810bb8a5aea0738c0e707e4b0ed227aeb431a11a977aa1a43fd542997f525.m3u8) |
 | 22 | [BD]cctv世界地理[ipv6] | [BD cctv世界地理 ipv6](https://epg.pw/stream/d959e7fa2de88f0daa2b9a5de3cc6caa70c29ab06c0cb568083ad454fd64c910.m3u8) |
-| 23 | [BD]cctv兵器科技 | [BD cctv兵器科技](https://epg.pw/stream/31387d02f3c753ac9bcebff76834268ddf38c7668ee1e16b5c6621971de64ef1.m3u8) |
+| 23 | [BD]cctv兵器科技 | [BD cctv兵器科技](https://epg.pw/stream/33adc72bf5c5ca3b3e4e60a8207ffbeb1bff76fd2fa3737a54fba7bd10c39457.m3u8) |
 | 24 | [BD]cctv-7 国防军事 | [BD cctv-7 国防军事](https://epg.pw/stream/7adf5da9e6f49ca64863630691e0c8580ba93ff7459b2382bbc919affdb933da.m3u8) |
-| 25 | [BD]cctv央视台球 | [BD cctv央视台球](https://epg.pw/stream/51b8aac49ec3c280ee204075b38542e9a547208c9f6a19b6bd517a333e321407.m3u8) |
+| 25 | [BD]cctv央视台球 | [BD cctv央视台球](https://epg.pw/stream/36b2f84ff865c2907807a81702f4ca47f2138097d11fb1e6c6cd3a85e5663f17.m3u8) |
 | 26 | [HD]ccgtn | [HD ccgtn](https://epg.pw/stream/aaa56ce8ac0666968ec0399c5b51f0d39a6a20a0b154da1b0739c872a920111d.m3u8) |
 | 27 | [BD]chc家庭影院 | [BD chc家庭影院](https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv) |
 | 28 | [SD]ltv | [SD ltv](https://epg.pw/stream/029e955b34c740d195366fd33dcebdce79b63fabb52d2c6ed911106d93759f86.m3u8) |
@@ -44,15 +44,15 @@
 | 38 | [HD]nfl channel | [HD nfl channel](https://epg.pw/stream/24a73a702372c944732ac9f46870481c922666d21ca9697202cac9dcecd788c7.m3u8) |
 | 39 | [BD]rt documentary | [BD rt documentary](https://epg.pw/stream/ea7a33d76c07f81ad5b6c6aceaecdb197a95b0a7c231fd7ad62ffc6238c8db95.m3u8) |
 | 40 | [SD]万州科教 | [SD 万州科教](https://epg.pw/stream/aff41d9171e19270999335d0346c0dac4a73f76a47f63489ce6e69101b59416a.m3u8) |
-| 41 | [HD]三明新闻综合 | [HD 三明新闻综合](https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8) |
+| 41 | [VGA]三明新闻综合 | [VGA 三明新闻综合](https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8) |
 | 42 | [BD]上海ics外语[ipv6] | [BD 上海ics外语 ipv6](https://epg.pw/stream/12aeb663d4574646ffa1a69cd798569aa7deeca836135a5b7158a4ac6fead8ea.m3u8) |
 | 43 | [BD]上海教育 | [BD 上海教育](https://epg.pw/stream/6bb6278a16c7ad10333f28b6dbbf5395aa35f2047b1adb5c8db0d3ea1eb5201b.m3u8) |
-| 44 | [BD]上海都市 | [BD 上海都市](https://epg.pw/stream/0e304419acd18f06632242d04ca3e267a9ac00bbb7bc7252fc9775420a18ec64.m3u8) |
+| 44 | [BD]上海都市[ipv6] | [BD 上海都市 ipv6](https://epg.pw/stream/ba0ae374a3a4b19a389049c0088580322cce39dbcc210295772013ae3cdeaefe.m3u8) |
 | 45 | [SD]丘北新闻综合 | [SD 丘北新闻综合](https://epg.pw/stream/34f594424a186a28a9521b8cb3912cdf85b93897313182a9abeaf096b23e9458.m3u8) |
 | 46 | [VGA]东北戏曲 | [VGA 东北戏曲](https://epg.pw/stream/a64878b475426eb4f7be1a6a250b660bdc478877bd92b6eaf29d09c52c0cea83.m3u8) |
 | 47 | [VGA]东北戏曲频道 | [VGA 东北戏曲频道](https://epg.pw/stream/2927c0c65ac9d2bdfa9100c2a0bd9b61b088088feb4b76d5f1ca14a20c4d81c0.m3u8) |
 | 48 | [SD]中华特产 | [SD 中华特产](https://epg.pw/stream/0166287ede717f795e9b69d8f1705918f649b8b7a61f80c0eb23cf0c7e464ea3.ctv) |
-| 49 | [BD]中国天气 | [BD 中国天气](https://epg.pw/stream/9c9f6a91822c6558be4ee427e434e596dabaaf99b207359befe233a074bfcaec.m3u8) |
+| 49 | [BD]中国天气 | [BD 中国天气](https://epg.pw/stream/2e36742ae974acad1903a8abd2f2937525bc45824d6786e15dd2cb24a35d10b5.m3u8) |
 | 50 | [SD]云南丘北新闻综合 | [SD 云南丘北新闻综合](https://epg.pw/stream/e41280c9ed59d4ce20daf5dde13807df95f14cb7e20e6483f5a21dd86fbcb297.m3u8) |
 | 51 | [HD]云南云南娱乐 | [HD 云南云南娱乐](https://epg.pw/stream/edd147d04512757d65ae95b40a9472421f524334ecf6ad65a699e57f00b5eb99.m3u8) |
 | 52 | [HD]云南怒江新闻综合 | [HD 云南怒江新闻综合](https://epg.pw/stream/8b8a3bb9f8e192134e044784d4143ba39be81bf453c3a8523f5aea21162f4824.m3u8) |
@@ -89,7 +89,7 @@
 | 83 | [BD]广东卫视 | [BD 广东卫视](https://epg.pw/stream/88869bbe44812d4aec4de520feed223e11c309bbe9fb7024556de45e3fa92383.m3u8) |
 | 84 | [BD]爱上4k | [BD 爱上4k](https://epg.pw/stream/3c0311108820220e015646ae9e51579e2a9899eb349471933ece11480331e2a6.ctv) |
 | 85 | [SD]承德新闻综合 | [SD 承德新闻综合](https://epg.pw/stream/5c0dfe6a3638b82d0c95726c165ac0cadb25c696589666af56eecdfe71226435.m3u8) |
-| 86 | [BD]早期教育 | [BD 早期教育](https://epg.pw/stream/68cf6d540c05d6021c7715bb9574a1040d6e2f843fca6cdda721c22b301cfcf3.m3u8) |
+| 86 | [BD]早期教育 | [BD 早期教育](https://epg.pw/stream/700e053a177a2edf245bc06b20b07efc7c8467d1a0d7acd6662cce25ef1fe633.ctv) |
 | 87 | [BD]晋城公共 | [BD 晋城公共](https://epg.pw/stream/b7f4f32a1638a3b6250279b309453a5076b69acd3e4a02fb4d092e291fda15d1.m3u8) |
 | 88 | [BD]东方卫视 | [BD 东方卫视](https://epg.pw/stream/50eb0f96661db260bce32f805c79e5606263a3c613e0c7d5c9cabe5844f246b0.m3u8) |
 | 89 | [HD]林正英 | [HD 林正英](https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv) |
@@ -134,7 +134,7 @@
 | 128 | [SD]万州影视文艺 | [SD 万州影视文艺](https://epg.pw/stream/4fbd9d1e44a192a1b593a0448e0ea3705f04408928e1c1a962c431988503c156.m3u8) |
 | 129 | [SD]证券服务 | [SD 证券服务](https://epg.pw/stream/0d7f27d9c7bb8fc5ea1a7b5c9a969a7f72b1b968a2b2e7c0c1a4790177dee86b.ctv) |
 | 130 | [SD]辉南新闻综合 | [SD 辉南新闻综合](https://epg.pw/stream/08aada616fdc07024873565514926140a61b59ef8226c0870ac5c3277410d34f.m3u8) |
-| 131 | [BD]农林卫视 | [BD 农林卫视](https://epg.pw/stream/4077b634357ba9d803a73e3e8ad32f596c99099b3e93ccc2707938d8b5980c5f.m3u8) |
+| 131 | [SD]农林卫视[ipv6] | [SD 农林卫视 ipv6](https://epg.pw/stream/4509b28aa6870b6723880c39a01a00ab539461605d227f22a85ba3d105592ad9.m3u8) |
 | 132 | [HD]运城公共频道 | [HD 运城公共频道](https://epg.pw/stream/91e30e2226ce405f915821a21c4cdf5cf25e77940f285ba95a985478ba3fdbb9.m3u8) |
 | 133 | [HD]运城新闻综合 | [HD 运城新闻综合](https://epg.pw/stream/2f96a02a897c3538bb00d6b75de0fa7fda36a23927883755f3913236241930ca.m3u8) |
 | 134 | [HD]运城科技教育 | [HD 运城科技教育](https://epg.pw/stream/94c6196cfda87ab8028c092d0a70eb2d80665f52dda1f70a66f4fc691db6c391.m3u8) |
@@ -153,4 +153,4 @@
 | 147 | [SD]黑龙江哈尔滨新闻 | [SD 黑龙江哈尔滨新闻](https://epg.pw/stream/a21c5bac9f70af160171c8746af2abc62e69b596653b7c18517ee945b2e8d157.m3u8) |
 | 148 | [SD]黑龙江公共农业 | [SD 黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
 
-Updated at **Thu Jan 04 2024 16:10:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 04 2024 18:11:15 GMT+0000 (Coordinated Universal Time)**
