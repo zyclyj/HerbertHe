@@ -688,7 +688,7 @@ All,#genre#
 [HD]fap tv 2,https://epg.pw/stream/23306cc9506a751c568a3de09eea89adfb2c7772214ba0be07274a3215d10121.m3u8
 [HD]fap tv 3,https://epg.pw/stream/19707922f9e1cf1b9e3c22d01aeeaae54551ecad93a00d3541204ffa1569fb10.m3u8
 [VGA]fashion tv pg16,https://epg.pw/stream/671c20b6cefe6e9c7c2713d4b20403fda0b8c82a92c47ca879411427cda03ebd.m3u8
-[VGA]fashiontv,https://epg.pw/stream/4002e71593e2747087ab3e2eda212b88cee7d2e7c5ac0f35fa2240458be01628.m3u8
+[BD]fashiontv uhd,https://epg.pw/stream/65d726061b82da69b383f5403bb31b63aeefc60c1649a0c39d54a0eacc2e8c1a.m3u8
 [HD]fight,https://epg.pw/stream/c2706cf86fa0a9fcf281b7c4d94255a2c2c5e5d461e7d2ff18b0b81edcdf1e04.m3u8
 [BD]fight sports2,https://epg.pw/stream/50bb724d602f81749014a9361a689c84708e43e29418b92615245f2961964cf8.m3u8
 [HD]flash tv,https://epg.pw/stream/58c629ede0c437317a3e58d11534fb4f1778be36c727c02f0b96b0ef6dceac0c.m3u8
@@ -1194,7 +1194,7 @@ All,#genre#
 [BD]usa today,https://epg.pw/stream/c7717738df1c848a0c42bc876d7263969c0f9c79bfbff2bc08a601458d98a182.m3u8
 [BD]utv,https://epg.pw/stream/59f938ccab0cd8efdc17c29c0e5cd3ebd314553ac7eb2250195ea1d40f021374.m3u8
 [BD]v news,https://epg.pw/stream/7818c241157463ae250e86f1d7773366428fcf0e5c4daf0c6b27a6fd60b4b756.m3u8
-[HD]venus,https://epg.pw/stream/b0b86ba55c2dd283c77593dd558f181a58365db30db723e11ed89457c1a2f32f.ctv
+[HD]venus hd,https://epg.pw/stream/e8d511f83acc920b1818cd55d2c33a2d125a72f0ee98a5c16962fdefde86b97d.m3u8
 [HD]vevo 2k,https://epg.pw/stream/33346b737bb3b9a93a22b2f7aee621fe26415b7d2312e4fd129b3a0a1e3f6b0d.m3u8
 [HD]vevo country,https://epg.pw/stream/7893dad7edd6610c885ea7d9b913961a05cd4c9477bab1b0e8c5c92464c48eff.m3u8
 [HD]vh1 classic,https://epg.pw/stream/2b6c6c6b9c43cd3b8cb3a27aec9d22965557d1d0b91982c6e24fb7d84b98080f.m3u8
