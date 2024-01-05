@@ -186,7 +186,7 @@
 | 180 | [HD]DISCOVERYHD | [HD DISCOVERYHD](https://epg.pw/stream/c7c8c3fae5d575b115b820b8dafde91fa39fb3efe1b492910056d49bc5055159.ctv) |
 | 181 | [HD]DISNEY CHANNEL | [HD DISNEY CHANNEL](https://epg.pw/stream/d19c8240dececeb02489f9a40be187bf34fb7bdf006cd4e43d74ee418bbc879e.ctv) |
 | 182 | [HD]DISNEY XD | [HD DISNEY XD](https://epg.pw/stream/c0f982b89302be5a91d7b735598cef0a48e2481a2c19417468e223dc09d5652f.ctv) |
-| 183 | [HD]DREAMWORKS | [HD DREAMWORKS](https://epg.pw/stream/34f165e9574b8ff6fdde8262f13889d855579a1d0e4aea9bb86c8e72fe0b47ea.ctv) |
+| 183 | [HD]DREAMWORKS | [HD DREAMWORKS](https://epg.pw/stream/d48bf5451ce10942bf04765aaf02b4753e5e4a9a6dc3cb401d8a0c4a1b7f64c1.ctv) |
 | 184 | [HD]E! ENTERTAINMENT | [HD E! ENTERTAINMENT](https://epg.pw/stream/9ea2daafd1b88b1538dea6cb6070648498c4470123c0469156a94ec636123034.ctv) |
 | 185 | [VGA]ebs kids (400p) | [VGA ebs kids (400p)](https://epg.pw/stream/0410d7122b0d747831bffdcdc1c3ba4027548b9b4d03125ee9d7d433c0f2112a.m3u8) |
 | 186 | [VGA]elta体育-2 | [VGA elta体育-2](https://epg.pw/stream/6a94c7dec3f7ea54d3e91a85a46b5bf8ae1f5d65eb2aef0fff9494eda79ed90b.ctv) |
@@ -539,7 +539,7 @@
 | 533 | [BD]beach tv myrtle beach & the grand strand | [BD beach tv myrtle beach & the grand strand](https://epg.pw/stream/5d4a300b5857c8b363814c704aeb1f5c8101fdc10c25e148c6b9da6a90edcba9.m3u8) |
 | 534 | [HD]beach tv panama city | [HD beach tv panama city](https://epg.pw/stream/4dae8f7baaac0dc937928e3077ce819c02d337336859f7187e4ca72332ac5917.m3u8) |
 | 535 | [HD]bein sports 5 | [HD bein sports 5](https://epg.pw/stream/d1ef660722066ebc68364edf7aedc1ee90a86a54d523dd2400bb0b5a18551e45.ctv) |
-| 536 | [BD]berita rtm | [BD berita rtm](https://epg.pw/stream/6afeae455c2ac09bd37728fac7e8b41619407c39b140ff0766771a39d6886e17.m3u8) |
+| 536 | [BD]berita rtm | [BD berita rtm](https://epg.pw/stream/53bbdcaeca3491bff725825a723125c94a2bea945d2d71a7547ebba29462f742.m3u8) |
 | 537 | [BD]bfm business (1080p) | [BD bfm business (1080p)](https://epg.pw/stream/a02a9e0848a1b463153aae52b84ce72b7e19c6cc9ea595e2a5b92cddd8391e4f.m3u8) |
 | 538 | [BD]bfm grand lille | [BD bfm grand lille](https://epg.pw/stream/c8d8b9d85f585add69de2143bd5a34353855039f23b109ffddd5018847a2bbbd.m3u8) |
 | 539 | [HD]bibel tv (720p) | [HD bibel tv (720p)](https://epg.pw/stream/e0500ba1058f933b75a3c178e260ccc4368cd6780cd8609deffb35dcaf97af42.m3u8) |
@@ -1683,4 +1683,4 @@
 | 1677 | [HD]龙华电影 | [HD 龙华电影](https://epg.pw/stream/40b36f22bc200d2eccafe911754659c0d0414655094c7299bb16932754de1130.m3u8) |
 | 1678 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Fri Jan 05 2024 04:11:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 05 2024 06:12:23 GMT+0000 (Coordinated Universal Time)**
