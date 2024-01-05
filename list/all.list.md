@@ -1683,4 +1683,4 @@
 | 1677 | [HD]龙华电影 | [HD 龙华电影](https://epg.pw/stream/40b36f22bc200d2eccafe911754659c0d0414655094c7299bb16932754de1130.m3u8) |
 | 1678 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Fri Jan 05 2024 02:23:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 05 2024 04:11:18 GMT+0000 (Coordinated Universal Time)**
