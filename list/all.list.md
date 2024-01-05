@@ -183,7 +183,7 @@
 | 177 | [SD]da vinci | [SD da vinci](https://epg.pw/stream/5ab8582de6e170a3fba0e34d7f4b5fb597e5bb23bad8618e86a1a8468f6ce16a.m3u8) |
 | 178 | [BD]dijlah tv hd | [BD dijlah tv hd](https://epg.pw/stream/c68e7dbaaafc55448e76156d9cc024b9e0301145fb06c48ceb1c455071153d1d.ctv) |
 | 179 | [HD]DISCOVERYHD | [HD DISCOVERYHD](https://epg.pw/stream/c7c8c3fae5d575b115b820b8dafde91fa39fb3efe1b492910056d49bc5055159.ctv) |
-| 180 | [HD]DISNEY CHANNEL | [HD DISNEY CHANNEL](https://epg.pw/stream/160ddfe8e08102125f81979a4d88257a3d98413aa86fb9018dfa5cf6f87176ba.ctv) |
+| 180 | [HD]DISNEY CHANNEL | [HD DISNEY CHANNEL](https://epg.pw/stream/fa1d0c8e2d01bf18666728661635264abb4c1162e63743905bdd41b64b4cf261.ctv) |
 | 181 | [HD]DISNEY XD | [HD DISNEY XD](https://epg.pw/stream/c0f982b89302be5a91d7b735598cef0a48e2481a2c19417468e223dc09d5652f.ctv) |
 | 182 | [HD]DREAMWORKS | [HD DREAMWORKS](https://epg.pw/stream/d48bf5451ce10942bf04765aaf02b4753e5e4a9a6dc3cb401d8a0c4a1b7f64c1.ctv) |
 | 183 | [SD]E! ENTERTAINMENT | [SD E! ENTERTAINMENT](https://epg.pw/stream/9ea2daafd1b88b1538dea6cb6070648498c4470123c0469156a94ec636123034.ctv) |
@@ -316,7 +316,7 @@
 | 310 | [HD]nhk e | [HD nhk e](https://epg.pw/stream/acbfe60565f05de278fc8bac630f3a02741e84176dfa39577476f84f3eee4bea.m3u8) |
 | 311 | [BD][日本]nhkworldjapan(720p) | [BD  日本 nhkworldjapan(720p)](https://epg.pw/stream/43dbb8d242d38ff4b85fffdd18c1f1b37206a864569ae31e788ff76ce703ef75.m3u8) |
 | 312 | [BD]NICK JR. USA | [BD NICK JR. USA](https://epg.pw/stream/b3d7b2ccbab08cc41797cad77de5dd1b102adc8c5db155c6e19b026e842dd5d1.ctv) |
-| 313 | [VGA]NICKELODEON | [VGA NICKELODEON](https://epg.pw/stream/4d7d21ab88a969ea2efecf34f07a6ef298c80a53002ac12072b647148ca43680.ctv) |
+| 313 | [VGA]NICKELODEON | [VGA NICKELODEON](https://epg.pw/stream/2d7f8865872ff8be289bd02bdda209166aff127f44948460ae8f624c8c34be51.ctv) |
 | 314 | [VGA]now新闻台 | [VGA now新闻台](https://epg.pw/stream/2c5cd39ab3b2274e97f37a1711a56db2f00cafe21b977befc22cd0fb05f3c12b.ctv) |
 | 315 | [HD]NTV NEWS 24 | [HD NTV NEWS 24](https://epg.pw/stream/293259a13176bce43dc1ebe4fa6c1edbf5967ab22130996ea34a151030c4cc32.m3u8) |
 | 316 | [HD]NTV7 | [HD NTV7](https://epg.pw/stream/70cd4b06c23bbad64d77d69d9af746f23e11bfa145af2575118c834698fc13e2.ctv) |
@@ -1677,4 +1677,4 @@
 | 1671 | [VGA]龙祥电影台 | [VGA 龙祥电影台](https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv) |
 | 1672 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Fri Jan 05 2024 16:10:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 05 2024 18:11:12 GMT+0000 (Coordinated Universal Time)**
