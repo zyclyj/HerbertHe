@@ -235,7 +235,7 @@
 | 229 | [BD]HBOFAMILYUSA | [BD HBOFAMILYUSA](https://epg.pw/stream/ecbf86a60cf1bd85d1cddac0695fe0964d9fd95dca7016acbbe1c21a402b3d87.ctv) |
 | 230 | [SD]hbo hd | [SD hbo hd](https://epg.pw/stream/c300dc774698a3dee9c053d7b19731f038712a8bf10bf26176f5aa5732475782.ctv) |
 | 231 | [BD]HBO HD USA | [BD HBO HD USA](https://epg.pw/stream/e48b9d5182a62052199edb6bcce0aceeb55a5c044685058a0e9afec1676ba4e1.ctv) |
-| 232 | [HD]HBO HITS | [HD HBO HITS](https://epg.pw/stream/65fd76c9f7ffd4c85e161c054bb0132953cc33b4b304d6f6b151a13bbff4ff35.ctv) |
+| 232 | [HD]HBO HITS | [HD HBO HITS](https://epg.pw/stream/191d06cad17d9120cb70ab2cbd0df716d3f752f45970ceb0f23d84f8a090f29e.ctv) |
 | 233 | [SD]hbo signature tree | [SD hbo signature tree](https://epg.pw/stream/d9aa885cfe16554da1d006ade22fd9ee32031c8fe6caf993f5feaa386af432fc.ctv) |
 | 234 | [HD]HBO SIGNATURE USA | [HD HBO SIGNATURE USA](https://epg.pw/stream/626f549f5dc20b043b36bf3f8fd31838c6f2f62103e530cc4619cd06b79c1a4e.ctv) |
 | 235 | [HD]HBO WEST | [HD HBO WEST](https://epg.pw/stream/8fdf0f4d26d814bf130106f4a93b167d450df908060e85deb09fda9281d97083.ctv) |
@@ -384,7 +384,7 @@
 | 378 | [SD]star 2 | [SD star 2](https://epg.pw/stream/a4dfc68855b754b173d1a4fc01131914acec3035c154be33c4ba8007bf875b04.m3u8) |
 | 379 | [BD]star movie | [BD star movie](https://epg.pw/stream/5e953939ff5146840069023efee058dc5c5fcba928b800d18794eb5149c4c3a9.ctv) |
 | 380 | [VGA]STARZ | [VGA STARZ](https://epg.pw/stream/3c7e9064f499f90b60673ada74dd19a9f211f22f86f88ef4ac89de295847e165.ctv) |
-| 381 | [HD]STARZ ENCORE | [HD STARZ ENCORE](https://epg.pw/stream/ea40366b2f5c0d1d92f817ed2938641a38d58a3596489f9afa10aa157ba52816.ctv) |
+| 381 | [VGA]Starz Encore | [VGA Starz Encore](https://epg.pw/stream/327e57381dfe94de508554a67464962137f2f4c666745c810a7bb8aa48965922.ctv) |
 | 382 | [VGA]STARZ WEST | [VGA STARZ WEST](https://epg.pw/stream/62c646036c40103d4e1e9c0ed5d4645fd41236df50179daf8a34c0449ef2d0e8.ctv) |
 | 383 | [SD]sun tv | [SD sun tv](https://epg.pw/stream/8e9c5245f5babfc8336aadd242a6a4f28f6f229503254c62df67a42f77d79cf5.m3u8) |
 | 384 | [HD]Sukan RTM | [HD Sukan RTM](https://epg.pw/stream/7e971e67b592e9eb3503238ed840d28f78e611c4d80790f0098656aca8fc46ac.ctv) |
@@ -1678,4 +1678,4 @@
 | 1672 | [VGA]龙祥电影台 | [VGA 龙祥电影台](https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv) |
 | 1673 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Sat Jan 06 2024 00:40:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 06 2024 02:21:50 GMT+0000 (Coordinated Universal Time)**
