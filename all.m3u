@@ -57,8 +57,8 @@ https://epg.pw/stream/bb281ef60fecb8c3b1b4b0e73b25750b915ce231338f614e929ff6632f
 https://epg.pw/stream/cc636a50f99739905050b5e3c87bb862297d98320ee1011de6b8600a3c4b2830.ctv
 #EXTINF:-1 tvg-name="AL Jazeera" tvg-id="" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311010508135042_15.png" group-title="News",[BD]al jazeera mubasher (1080p)
 https://epg.pw/stream/a2632b8be0e6ecc5735a19a93bee30bc97ca66d44c1c98f44236d9baf6a7698b.m3u8
-#EXTINF:-1 tvg-name="AMC" tvg-id="8396" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2018/01/18/large/20180118210133904705_73.png" group-title="Movie",[SD]AMC
-https://epg.pw/stream/8f2bf96e414c3ccf8c7a30a32092e975fa4a2db4e98d1a4106203585c69f8215.ctv
+#EXTINF:-1 tvg-name="AMC" tvg-id="8396" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2018/01/18/large/20180118210133904705_73.png" group-title="Movie",[BD]AMC
+https://epg.pw/stream/b03e64515d86c46763f71ab94315af685596c479598c756d8ae1ce7c8fc4cc3d.ctv
 #EXTINF:-1 tvg-name="ANTV" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/01/20150901235624453824_73.png" group-title="Generic",[VGA]ANTV
 https://epg.pw/stream/642759aa486352a78a802e7def587401437e4e86d9f0e89818a7fcf67c434359.ctv
 #EXTINF:-1 tvg-name="ASSP(backup)" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601214654098451_57.png" group-title="Sport",[BD]ASSP
@@ -357,8 +357,8 @@ https://epg.pw/stream/5ab8582de6e170a3fba0e34d7f4b5fb597e5bb23bad8618e86a1a8468f
 https://epg.pw/stream/c68e7dbaaafc55448e76156d9cc024b9e0301145fb06c48ceb1c455071153d1d.ctv
 #EXTINF:-1 tvg-name="Discovery HD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805000128371515_80.png" group-title="Documentary",[HD]DISCOVERYHD
 https://epg.pw/stream/c7c8c3fae5d575b115b820b8dafde91fa39fb3efe1b492910056d49bc5055159.ctv
-#EXTINF:-1 tvg-name="Disney Channel" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114212722350581_18.png" group-title="Cartoon",[HD]disney channel (japan)
-https://epg.pw/stream/07a4bd54d78ef7a199ec70aadf9614fea57c33771b173fca456d61f26f73a8b4.m3u8
+#EXTINF:-1 tvg-name="Disney Channel" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114212722350581_18.png" group-title="Cartoon",[HD]DISNEY CHANNEL
+https://epg.pw/stream/d19c8240dececeb02489f9a40be187bf34fb7bdf006cd4e43d74ee418bbc879e.ctv
 #EXTINF:-1 tvg-name="Disney XD Asia" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719234717171033_63.jpg" group-title="Cartoon",[HD]DISNEY XD
 https://epg.pw/stream/c0f982b89302be5a91d7b735598cef0a48e2481a2c19417468e223dc09d5652f.ctv
 #EXTINF:-1 tvg-name="DreamWorks" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/11/27/large/20211127205316248478_57.png" group-title="Cartoon",[HD]DREAMWORKS
@@ -2932,7 +2932,7 @@ https://epg.pw/stream/b7f4f32a1638a3b6250279b309453a5076b69acd3e4a02fb4d092e291f
 #EXTINF:-1 tvg-name="晋城新闻" tvg-id="" tvg-country="China Country" tvg-language="Chinese" tvg-logo="https://epg.pw/media/img/logo/3_246.jpg" group-title="News",[BD]晋城新闻
 https://epg.pw/stream/bef72ce4c2d1d83126bb2af671ce94763a3457869acca885d2eaaf7c5c0b45d7.m3u8
 #EXTINF:-1 tvg-name="有线新闻" tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2020/07/14/large/20200714005324551300_94.png" group-title="News",[HD]有线新闻
-https://epg.pw/stream/d51cb354166be0099c5d4fcfd3484b6e6a83849a6dafeaa7a625f2a2fbe24e5f.m3u8
+https://epg.pw/stream/4e24596fde9c243eb4302e394190972407ee674c0c6a06ea6be4e5d349582cbe.m3u8
 #EXTINF:-1 tvg-name="有线新闻台" tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2020/07/14/large/20200714005324551300_94.png" group-title="News",[BD]有线新闻台
 https://epg.pw/stream/a546fb9f46c4fbd26bfe5b62692b029b734cb147ea737d9bd0e525822acb1a45.m3u8
 #EXTINF:-1 tvg-name="有线财经信息台" tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2020/06/25/large/20200625232336807856_57.png" group-title="News",[HD]有线财经信息台

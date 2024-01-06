@@ -776,7 +776,7 @@ News,#genre#
 [BD]新昌新闻综合,https://epg.pw/stream/7f856c798f5a5167cf5966b25d0ab5d352c40c5975d4a78d25e6a92c0251cb89.m3u8
 [HD]nittele g+,https://epg.pw/stream/3ab3f249b6017e2f47d33e72fd38314acf37974833de59da18b1329108f66a85.m3u8
 [BD]晋城新闻,https://epg.pw/stream/bef72ce4c2d1d83126bb2af671ce94763a3457869acca885d2eaaf7c5c0b45d7.m3u8
-[HD]有线新闻,https://epg.pw/stream/d51cb354166be0099c5d4fcfd3484b6e6a83849a6dafeaa7a625f2a2fbe24e5f.m3u8
+[HD]有线新闻,https://epg.pw/stream/4e24596fde9c243eb4302e394190972407ee674c0c6a06ea6be4e5d349582cbe.m3u8
 [BD]有线新闻台,https://epg.pw/stream/a546fb9f46c4fbd26bfe5b62692b029b734cb147ea737d9bd0e525822acb1a45.m3u8
 [HD]有线财经信息台,https://epg.pw/stream/0fddc0600d3868b05ad741d46294410aebca0fdc4fada5028dc54e624b7b17ca.m3u8
 [BD]东方财经,https://epg.pw/stream/668fb3d6e3a20521e548c2ebfd06301680bbf96a2cf9163533ce7a92f08fd8a4.ctv
@@ -1321,7 +1321,7 @@ Cartoon,#genre#
 [HD]DISNEYJR,https://epg.pw/stream/508f8abfc7306c98bcdf796f1490ddbff3bc5867ba5cf1ba8bc2de53dbf7ea49.ctv
 [HD]DISNEYJUNIOR,https://epg.pw/stream/c94eabc98cb15a2a482852136df7d45f2b3b1a0a0ade3b7b895b006bdeb17247.ctv
 [HD]DISNEYXD,https://epg.pw/stream/da1e3814ece51349a7030b5ab45c4e3237e22060bf2d037bc8487290e7f91c03.ctv
-[HD]disney channel (japan),https://epg.pw/stream/07a4bd54d78ef7a199ec70aadf9614fea57c33771b173fca456d61f26f73a8b4.m3u8
+[HD]DISNEY CHANNEL,https://epg.pw/stream/d19c8240dececeb02489f9a40be187bf34fb7bdf006cd4e43d74ee418bbc879e.ctv
 [HD]DISNEY XD,https://epg.pw/stream/c0f982b89302be5a91d7b735598cef0a48e2481a2c19417468e223dc09d5652f.ctv
 [HD]DREAMWORKS,https://epg.pw/stream/d48bf5451ce10942bf04765aaf02b4753e5e4a9a6dc3cb401d8a0c4a1b7f64c1.ctv
 [VGA]ebs kids (400p),https://epg.pw/stream/0410d7122b0d747831bffdcdc1c3ba4027548b9b4d03125ee9d7d433c0f2112a.m3u8
@@ -1448,7 +1448,7 @@ Documentary,#genre#
 Movie,#genre#
 [VGA]5 Star Max,https://epg.pw/stream/f58f011d3b406c5e5239b838febe5ae762568cc9b66e709bb13b5a66c3c01c31.ctv
 [VGA]ACTION MAX,https://epg.pw/stream/cc636a50f99739905050b5e3c87bb862297d98320ee1011de6b8600a3c4b2830.ctv
-[SD]AMC,https://epg.pw/stream/8f2bf96e414c3ccf8c7a30a32092e975fa4a2db4e98d1a4106203585c69f8215.ctv
+[BD]AMC,https://epg.pw/stream/b03e64515d86c46763f71ab94315af685596c479598c756d8ae1ce7c8fc4cc3d.ctv
 [VGA]ASTRO AOD 311,https://epg.pw/stream/615bc45a25b9e4554b0857c4e4e48e590b2a31458e67f1f69d40b4044ab19603.ctv
 [VGA]ASTRO WARNA,https://epg.pw/stream/6b089c6c3ef27f30ed1424b73a327a216fa87f01d6887d713827219b864ba521.ctv
 [HD]axn,https://epg.pw/stream/d290befff40ea26516e35ccad44726d0923e8063f164c76ca294e4cb5f05a7a0.ctv
@@ -2044,7 +2044,7 @@ Music,#genre#
 [BD]广西卫视,https://epg.pw/stream/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8
 [SD]新疆卫视,https://epg.pw/stream/369d82e2913254f5a712ca6bcb0931176462d5a46be06f9771cdcf93f7f35cdb.m3u8
 [BD]旅游卫视[ipv6],https://epg.pw/stream/0a7895ab7d245925f9fe1bdcb3714e269b6ce032323f8acc84b36071893c0d78.m3u8
-[SD]东南卫视[ipv6],https://epg.pw/stream/aba8603324d1cea99c18553c3a7d4da469e94ce7741fb9db7efb6dfaf05b116e.m3u8
+[BD]东南卫视[ipv6],https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8
 [BD]东方卫视[ipv6],https://epg.pw/stream/96fb4677915219a69c151563855a231f0b7d6e7392e403e66e40af920843cb68.m3u8
 [BD]江苏卫视,https://epg.pw/stream/c820313a01ccf35b80f23ef104f866d422e22f5e9ad084b95f80c77d875bcbab.m3u8
 [VGA]江西卫视,https://epg.pw/stream/712a9501771f77767d38d69d884e87056ee0cb44e57bb3f4e75f50d3d0ab05fb.m3u8
@@ -2060,7 +2060,7 @@ Music,#genre#
 [SD]西藏卫视,https://epg.pw/stream/cfce8c7266926f66e4c9f1e47e1838772aba6fe9fc594f2b19456351b1f91126.m3u8
 [BD]贵州卫视,https://epg.pw/stream/cc54b485fc3912265c9dbb24fe2b6d1ba2b65412d0ff45b904bc4d53ea02bf67.ctv
 [VGA]辽宁卫视,https://epg.pw/stream/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8
-[BD]重庆卫视[ipv6],https://epg.pw/stream/3e54d8823d041c70e4d63411dcbe6ea7c5b5ce07e3a2c0b179484753e199a244.m3u8
+[BD]重庆卫视[ipv6],https://epg.pw/stream/ab652effca726310b82c8a321edfa861029f896ef612cbed788dd4c907c075aa.m3u8
 [SD]陕西卫视,https://epg.pw/stream/a7b458a7ff6ccdd60304819323337e2835d8ea50887d423659e0eb0ec0118a65.ctv
 [BD]青海卫视[ipv6],https://epg.pw/stream/4b3cea3a8a9a815e94248b0d2a4e662c0ec589510ad6c8bf787efdde534148f4.m3u8
 [BD]黑龙江卫视,https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.ctv
