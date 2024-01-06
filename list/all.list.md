@@ -1407,7 +1407,7 @@
 | 1401 | [HD]四川蓬安新闻综合 | [HD 四川蓬安新闻综合](https://epg.pw/stream/2ee3dbb766acd5cf07af7a7ec948673b819eb6e6076c46eb6acbf7db898b571a.m3u8) |
 | 1402 | [VGA]四川卫视 | [VGA 四川卫视](https://epg.pw/stream/c1d7aa9fdbe369ae7c3242d0dade547b7987e1e37e7e2098a45e794c3296f862.m3u8) |
 | 1403 | [SD]四海钓鱼 | [SD 四海钓鱼](https://epg.pw/stream/7d161663838b2495873194d891e2381ab14bad6c6d4bdf3921e53f6a3de1c7e5.ctv) |
-| 1404 | [HD]国家地理野生 | [HD 国家地理野生](https://epg.pw/stream/936ec911ca3a23631c8e822081ca3fe8f0e1a93bac068f4db5eaa005b2fccba7.m3u8) |
+| 1404 | [HD]国家地理野生 | [HD 国家地理野生](https://epg.pw/stream/903148b14d0b8a758a2acd6e975be91df91fd4cade1c0813d80b71200c2137de.m3u8) |
 | 1405 | [VGA]壹新闻 hd | [VGA 壹新闻 hd](https://epg.pw/stream/fa7bfcbeb0cde51e3226ae7dffea72c54049da2b9d96ccd57f604be57fc4f447.ctv) |
 | 1406 | [BD]大健康 | [BD 大健康](https://epg.pw/stream/3480b40c51045605a207d4fa48ea507dfd4a46bc8318e3a65de96f5c8747b730.ctv) |
 | 1407 | [BD]大爱 | [BD 大爱](https://epg.pw/stream/8dab0126668b960d4130c12b25e9278ffda43f5b66fa986287ed34cd97cbd721.m3u8) |
@@ -1678,4 +1678,4 @@
 | 1672 | [VGA]龙祥电影台 | [VGA 龙祥电影台](https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv) |
 | 1673 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Sat Jan 06 2024 02:21:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 06 2024 04:11:19 GMT+0000 (Coordinated Universal Time)**
