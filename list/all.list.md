@@ -42,7 +42,7 @@
 | 36 | [SD]ASTRO AOD 311 | [SD ASTRO AOD 311](https://epg.pw/stream/615bc45a25b9e4554b0857c4e4e48e590b2a31458e67f1f69d40b4044ab19603.ctv) |
 | 37 | [HD]ASTRO AURA | [HD ASTRO AURA](https://epg.pw/stream/c3c104e7dd542948f68a129b5b536976871633af353d562f89fd27ea9e517fd3.ctv) |
 | 38 | [SD]ASTROCRICKET | [SD ASTROCRICKET](https://epg.pw/stream/96eaff41d11f7980c892cbeb3d1c3b2081fa7e2ea74dbb4f412453e8f2333ec4.ctv) |
-| 39 | [VGA]ASTRO WARNA | [VGA ASTRO WARNA](https://epg.pw/stream/138996d28454a19599454d2d7a527a2a8ab9f2230d3ee6c452b3c671c773a20d.ctv) |
+| 39 | [VGA]ASTRO WARNA | [VGA ASTRO WARNA](https://epg.pw/stream/25ccfb5641c05b6c1cd3c43d9886a4de53fd1ddf6e5e350ab507aabc15cf794b.ctv) |
 | 40 | [HD]ASTROAURA | [HD ASTROAURA](https://epg.pw/stream/7d07428db3380c993dd57d1c4246546ed90b3cbe89c40006daf191025872c1c3.ctv) |
 | 41 | [HD]ASTROAWANI | [HD ASTROAWANI](https://epg.pw/stream/9a0b1505f69ea3b388ebec3f74366b1ff7c36ff9f74204929cf824b80eee7d97.ctv) |
 | 42 | [HD]ASTROOASIS | [HD ASTROOASIS](https://epg.pw/stream/2a28c176e269ed3295ff6e0b58d4fc5102607e8cc0caee1f74cce771bb4f58dc.ctv) |
@@ -200,7 +200,7 @@
 | 194 | [SD]Fox | [SD Fox](https://epg.pw/stream/960aef00dc3be4bbd5488a2cccf1aacc0260423aa52ef21b14becd2e017127a7.ctv) |
 | 195 | [HD]ASTRO小太阳 | [HD ASTRO小太阳](https://epg.pw/stream/174d105019b0ba17c941d1aa30bc988ebd4b42f9b6b45f586b6bc8f925f3bac3.ctv) |
 | 196 | [HD]fox sport 503 | [HD fox sport 503](https://epg.pw/stream/c9ce1b2f5829128669f51c78f713d13169f059f8b6555fc83e6ed800b9057473.ctv) |
-| 197 | [HD]rakuten action movies | [HD rakuten action movies](https://epg.pw/stream/2573f60c82a1dc3900c58c9cf171475351c0c788a5a5ea3d63e47964515ce3d2.m3u8) |
+| 197 | [HD]ช่อง rakuten action movies | [HD ช่อง rakuten action movies](https://epg.pw/stream/185c1b02b181c72379cc40431629fff111c47307fe1c200b3265dd406b1c721c.m3u8) |
 | 198 | [HD]ช่อง rakuten family movies | [HD ช่อง rakuten family movies](https://epg.pw/stream/cb941d80cf6f4cf188e1349de966121c817bf6f42389cd56df0b62d713adc6cf.m3u8) |
 | 199 | [SD]FOX MOVIES | [SD FOX MOVIES](https://epg.pw/stream/317a96263326bd9e196e549899795a5382b92b544fd7eac9787954985c6bd47e.ctv) |
 | 200 | [VGA]FOX NEWS | [VGA FOX NEWS](https://epg.pw/stream/77960a32db5785771b38dfe3b85a70aa83fd1225ff4d5ba4f5acd8e37ba6bf01.ctv) |
@@ -1662,4 +1662,4 @@
 | 1656 | [VGA]龙祥电影台 | [VGA 龙祥电影台](https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv) |
 | 1657 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Sun Jan 07 2024 16:10:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jan 07 2024 18:10:45 GMT+0000 (Coordinated Universal Time)**
