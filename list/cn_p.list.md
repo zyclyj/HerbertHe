@@ -40,4 +40,4 @@
 | 34 | [SD]青海卫视 | [SD 青海卫视](https://epg.pw/stream/bb84d47770b5abe3f2c560c48c7487b6acd6133bea36ff22f1f5af1304512ac0.ctv) |
 | 35 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.ctv) |
 
-Updated at **Mon Jan 08 2024 20:09:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 08 2024 22:08:38 GMT+0000 (Coordinated Universal Time)**
