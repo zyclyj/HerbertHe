@@ -31,7 +31,7 @@
 | 25 | [SD]优优宝贝 | [SD 优优宝贝](https://epg.pw/stream/03fc4a873abddccb54f01763ae6695d071005b950c8aaea262d401d4618b6dcd.ctv) |
 | 26 | [SD]先锋乒羽 | [SD 先锋乒羽](https://epg.pw/stream/ed5df3ee52f13ed26f7bebddc5991da64f974e972585981df1f41640d145d2a9.ctv) |
 | 27 | [BD]内蒙古农牧 | [BD 内蒙古农牧](https://epg.pw/stream/f426a12024c3d2a6271d7b4e1514b8da71aeef77a9033c211e1e49a8386a8668.m3u8) |
-| 28 | [SD]兵团卫视 | [SD 兵团卫视](https://epg.pw/stream/d84efa5eb598b5211d873bf4c345d5e25800edcf2b6cea4cc78e5c909b15b625.ctv) |
+| 28 | [SD]兵团卫视 | [SD 兵团卫视](https://epg.pw/stream/48f41a87ab414ccd298dbe4852691fd523c1e70147700226e5cac9e947e62e24.m3u8) |
 | 29 | [SD]动作影院 | [SD 动作影院](https://epg.pw/stream/42ed3ee461afcccb99711962e0c1aa0f4705d5fb49d5b8dd6a83d712f629f8f0.ctv) |
 | 30 | [BD]劲爆体育 | [BD 劲爆体育](https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv) |
 | 31 | [BD]动漫秀场 | [BD 动漫秀场](https://epg.pw/stream/ca411be8f82bf17d3a956ffaf09b072a27ff9d9bb0d83fa3cae307eef53b6a68.ctv) |
@@ -79,7 +79,7 @@
 | 73 | [BD]广西影视 | [BD 广西影视](https://epg.pw/stream/8cfcbd7359b48553193f700bbb8ee80def1b0e954f3f6721a1b331a38a6f9f0a.m3u8) |
 | 74 | [BD]广西综艺 | [BD 广西综艺](https://epg.pw/stream/dd40c2123be7b124947cef55b01bde16e981e3a90d9d9ca725956786bd3b1167.m3u8) |
 | 75 | [BD]广西都市 | [BD 广西都市](https://epg.pw/stream/7ea5219e9f45945814926dfa1285a37f01c7a82bab44430d6eaa5bb4af0aac85.m3u8) |
-| 76 | [SD]延边卫视[ipv6] | [SD 延边卫视 ipv6](https://epg.pw/stream/8513d45e18cb11230fa6cf876c3420e6f9ab9a09ced9b0b849641eb890783727.m3u8) |
+| 76 | [HD]延边卫视 | [HD 延边卫视](https://epg.pw/stream/2c315ffc8f8501d31b82a47f0e65c47661e4f9fb6e45a5d9026fe47fe0563dba.m3u8) |
 | 77 | [HD]开化新闻综合 | [HD 开化新闻综合](https://epg.pw/stream/3bbb603477d99145f17fd829b0c986cc487070e09e0ca75d4617ed3cad784c5f.m3u8) |
 | 78 | [SD]弈坛春秋[ipv6] | [SD 弈坛春秋 ipv6](https://epg.pw/stream/763d7c5759a8e53b24815f268656af286ed0fc9afcae30cfdfd88a4d68639bf4.m3u8) |
 | 79 | [BD]快乐垂钓 | [BD 快乐垂钓](https://epg.pw/stream/f985e0b6d1331e8a6ebe2cd52fc775e56778a8c59df71272881179c511e256cb.ctv) |
@@ -160,4 +160,4 @@
 | 154 | [VGA]黑龙江新闻 | [VGA 黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 | 155 | [HD]点掌财经 | [HD 点掌财经](https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8) |
 
-Updated at **Mon Jan 08 2024 16:11:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 08 2024 18:12:16 GMT+0000 (Coordinated Universal Time)**
