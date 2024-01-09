@@ -24,21 +24,21 @@
 | 18 | CCTV-17 | [CCTV-17](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8) |
 | 19 | CCTV-4K | [CCTV-4K](http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8) |
 | 20 | CCTV-8K | [CCTV-8K](http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8) |
-| 21 | 凤凰香港 | [凤凰香港](http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8) |
-| 22 | 凤凰中文 | [凤凰中文](http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8) |
-| 23 | 凤凰资讯 | [凤凰资讯](http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8) |
-| 24 | 半岛新闻 | [半岛新闻](http://live-hls-web-aje.getaj.net/AJE/01.m3u8) |
-| 25 | CNN新闻 | [CNN新闻](https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8) |
-| 26 | FOX新闻 | [FOX新闻](https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8) |
-| 27 | CNA新闻 | [CNA新闻](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8) |
-| 28 | BBC美洲 | [BBC美洲](https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8) |
-| 29 | CBS新闻 | [CBS新闻](https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8) |
-| 30 | CBN新闻 | [CBN新闻](https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8) |
-| 31 | NHK世界 | [NHK世界](https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8) |
-| 32 | GB新闻 | [GB新闻](https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8) |
-| 33 | RT新闻 | [RT新闻](https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8) |
-| 34 | RT纪录 | [RT纪录](https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8) |
-| 35 | 金砖中文 | [金砖中文](http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8) |
+| 21 | 凤凰中文 | [凤凰中文](http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8) |
+| 22 | 凤凰资讯 | [凤凰资讯](http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8) |
+| 23 | 半岛新闻 | [半岛新闻](http://live-hls-web-aje.getaj.net/AJE/01.m3u8) |
+| 24 | CNN新闻 | [CNN新闻](https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8) |
+| 25 | FOX新闻 | [FOX新闻](https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8) |
+| 26 | CNA新闻 | [CNA新闻](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8) |
+| 27 | BBC美洲 | [BBC美洲](https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8) |
+| 28 | CBS新闻 | [CBS新闻](https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8) |
+| 29 | CBN新闻 | [CBN新闻](https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8) |
+| 30 | NHK世界 | [NHK世界](https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8) |
+| 31 | GB新闻 | [GB新闻](https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8) |
+| 32 | RT新闻 | [RT新闻](https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8) |
+| 33 | RT纪录 | [RT纪录](https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8) |
+| 34 | 金砖中文 | [金砖中文](http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8) |
+| 35 | 金砖英文 | [金砖英文](http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8) |
 | 36 | TalkTV | [TalkTV](https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8) |
 | 37 | TRT世界 | [TRT世界](https://tv-trtworld.live.trt.com.tr/master_1080.m3u8) |
 | 38 | 台湾Plus | [台湾Plus](https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8) |
@@ -81,7 +81,7 @@
 | 75 | 体育休闲 | [体育休闲](http://iptv.8t.cx:8180/udp/239.3.1.243:8000) |
 | 76 | 纪实科教 | [纪实科教](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
 | 77 | 卡酷少儿 | [卡酷少儿](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8) |
-| 78 | 中国教育 | [中国教育](http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001020/index.m3u8?) |
+| 78 | 中国教育 | [中国教育](http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001020/index.m3u8?love=freedom) |
 | 79 | 职教频道 | [职教频道](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8) |
 | 80 | 纪实人文 | [纪实人文](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8) |
 | 81 | 东方影视 | [东方影视](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8) |
@@ -103,7 +103,7 @@
 | 97 | 金鹰纪实 | [金鹰纪实](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8) |
 | 98 | 金鹰卡通 | [金鹰卡通](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8) |
 | 99 | 纯享4K | [纯享4K](http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8) |
-| 100 | 乐游频道 | [乐游频道](http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001200/index.m3u8?) |
+| 100 | 乐游频道 | [乐游频道](http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001200/index.m3u8?love=freedom) |
 | 101 | 求索动物 | [求索动物](http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3) |
 | 102 | 求索生活 | [求索生活](http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3) |
 | 103 | 求索科学 | [求索科学](http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3) |
@@ -125,4 +125,4 @@
 | 119 | 高清电影 | [高清电影](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
 | 120 | 华数超清 | [华数超清](http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId) |
 
-Updated at **Tue Jan 09 2024 12:16:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 09 2024 16:11:39 GMT+0000 (Coordinated Universal Time)**
