@@ -208,7 +208,7 @@
 | 202 | [HD]ช่อง rakuten action movies | [HD ช่อง rakuten action movies](https://epg.pw/stream/185c1b02b181c72379cc40431629fff111c47307fe1c200b3265dd406b1c721c.m3u8) |
 | 203 | [HD]ช่อง rakuten family movies | [HD ช่อง rakuten family movies](https://epg.pw/stream/cb941d80cf6f4cf188e1349de966121c817bf6f42389cd56df0b62d713adc6cf.m3u8) |
 | 204 | [HD]FOX MOVIES | [HD FOX MOVIES](https://epg.pw/stream/317a96263326bd9e196e549899795a5382b92b544fd7eac9787954985c6bd47e.ctv) |
-| 205 | [VGA]FOX NEWS | [VGA FOX NEWS](https://epg.pw/stream/77960a32db5785771b38dfe3b85a70aa83fd1225ff4d5ba4f5acd8e37ba6bf01.ctv) |
+| 205 | [VGA]FOX NEWS | [VGA FOX NEWS](https://epg.pw/stream/ade07ac43f36b4eed8f084dd7442578a6c16e475c7837ec1c3d23f1bcfab6bc4.ctv) |
 | 206 | [HD]fox newsnow | [HD fox newsnow](https://epg.pw/stream/516cd8fec2b2c85c5d66b50e360a503ccde03570a6701514765b03e42443d43a.m3u8) |
 | 207 | [HD]Fox Sports 2 | [HD Fox Sports 2](https://epg.pw/stream/cdea0ea543c4047e676a4d18866993520794c6b9bac28ca1f5b57d19d20d3519.ctv) |
 | 208 | [HD]fox sport 505 | [HD fox sport 505](https://epg.pw/stream/561cdaa609412e0457eecd0b80019d40c4dba700c559e62eadee2b2022d915d6.ctv) |
@@ -1709,4 +1709,4 @@
 | 1703 | [VGA]龙祥电影台 | [VGA 龙祥电影台](https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv) |
 | 1704 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Tue Jan 09 2024 04:14:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 09 2024 05:16:12 GMT+0000 (Coordinated Universal Time)**
