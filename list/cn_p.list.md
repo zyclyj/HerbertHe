@@ -35,8 +35,8 @@
 | 29 | [VGA]辽宁卫视 | [VGA 辽宁卫视](https://epg.pw/stream/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8) |
 | 30 | [BD]重庆卫视[ipv6] | [BD 重庆卫视 ipv6](https://epg.pw/stream/ab652effca726310b82c8a321edfa861029f896ef612cbed788dd4c907c075aa.m3u8) |
 | 31 | [SD]陕西卫视 | [SD 陕西卫视](https://epg.pw/stream/a7b458a7ff6ccdd60304819323337e2835d8ea50887d423659e0eb0ec0118a65.ctv) |
-| 32 | [BD]云南卫视[ipv6] | [BD 云南卫视 ipv6](https://epg.pw/stream/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.m3u8) |
+| 32 | [SD]云南卫视 | [SD 云南卫视](https://epg.pw/stream/6db0dbff5977b23ea13743251e67a37bb9ec0c713566f31ca5b670d0b29b70c8.ctv) |
 | 33 | [SD]青海卫视 | [SD 青海卫视](https://epg.pw/stream/bb84d47770b5abe3f2c560c48c7487b6acd6133bea36ff22f1f5af1304512ac0.ctv) |
 | 34 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.ctv) |
 
-Updated at **Tue Jan 09 2024 16:11:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 09 2024 18:09:50 GMT+0000 (Coordinated Universal Time)**
