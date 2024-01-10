@@ -60,7 +60,6 @@
 [SD]河北公共,https://epg.pw/stream/e73e84b708a04b46e8aff02f7a00d3168bf259f7f48b5dc8e08a53583b9c75a4.m3u8
 [BD]河北卫视,https://epg.pw/stream/726fbb327e7e9a5c0d71200d865d37d16a93ced28386bc0d3dd33344a323fde3.m3u8
 [SD]河北都市,https://epg.pw/stream/9fc6507da49edb0268413134352e96785e137b8f2dec3c1bef337f62e1087c1b.m3u8
-[BD]河南卫视,https://epg.pw/stream/b4af554b1dbd4807649b8c9e7f33150882d2e61025eba4109edee4f89d92fa67.m3u8
 [SD]法治天地,https://epg.pw/stream/4389baae3c68d2fef8fb8656cda7c4977540b2c3525ecf1edf9d5b04d5017a80.ctv
 [BD]浙江卫视,https://epg.pw/stream/5eb50e6a4ccf96ade0f3359339ce5e069161e0ced131f108c2d641275fd673ce.m3u8
 [BD]深圳卫视,https://epg.pw/stream/f71ce2c8d3869cd398598fccaa3ae45c79fc432743b033a33f58b7b2abd51c41.m3u8
@@ -152,7 +151,7 @@ Music,#genre#
 [BD]cctv5+[ipv6],https://epg.pw/stream/7981c913470473b3a58f00fbe26773cb6e00101b6c19f0a428d781ea3232ebe1.m3u8
 [BD]newtv武博世界[ipv6],https://epg.pw/stream/6d019e50be5915ce372a1c740b953edfb2ff511cf2ae7976e4d5343b037784ee.m3u8
 [BD]哒啵赛事[ipv6],https://epg.pw/stream/b86c4c5e7c9ea65d25fa8fba5324861e8fd1b2dc314e0363432f9d1d7cab861c.m3u8
-[BD]5+体育赛事,https://epg.pw/stream/8e87dfe99f2a476ed0f64027d3fe221c0aa002845001d44e3e273df669c0bd9c.m3u8
+[BD]5+体育赛事,https://epg.pw/stream/086db2bb0313ea69b64e6c5241778b8b5933b629e4bd09ecab5e744b122ed865.m3u8
 
 综艺,#genre#
 [BD]cctv3[ipv6],https://epg.pw/stream/7361b754ebaf0853cb863bc4a3af9233d23c74c0e46a0aa7190d44f0389e0822.m3u8
