@@ -52,7 +52,7 @@
 | 46 | [HD]ASTROAWANI | [HD ASTROAWANI](https://epg.pw/stream/9a0b1505f69ea3b388ebec3f74366b1ff7c36ff9f74204929cf824b80eee7d97.ctv) |
 | 47 | [HD]ASTROOASIS | [HD ASTROOASIS](https://epg.pw/stream/2a28c176e269ed3295ff6e0b58d4fc5102607e8cc0caee1f74cce771bb4f58dc.ctv) |
 | 48 | [HD]ASTRORANIA | [HD ASTRORANIA](https://epg.pw/stream/b48cebfb4aa999f1429d0afc59471ca1496b6bfd55d30496d976e4bea2c9ed09.ctv) |
-| 49 | [HD]Astro华丽台(翡MAS) | [HD Astro华丽台(翡MAS)](https://epg.pw/stream/0b8827340a236a844e6a06ec3893fbd2c3068d89d347f3790f6004808b39191f.ctv) |
+| 49 | [HD]Astro华丽台 | [HD Astro华丽台](https://epg.pw/stream/b204df30a74900c31103615d9fb4f16942644d1e8b7da90a6f16dfde35ecc92c.ctv) |
 | 50 | [HD]axn | [HD axn](https://epg.pw/stream/d290befff40ea26516e35ccad44726d0923e8063f164c76ca294e4cb5f05a7a0.ctv) |
 | 51 | [HD]AXNHD | [HD AXNHD](https://epg.pw/stream/76af7583b8bc0e551899c8de41b9a427b8d311897a269c5656467e7e0d197e2d.ctv) |
 | 52 | [VGA]AFN | [VGA AFN](https://epg.pw/stream/cebf7285faacebb574d92ad12eb8881b0ef1dd8ae7f7a05846adc1df0d5e885a.ctv) |
@@ -724,7 +724,7 @@
 | 718 | [BD]global fashion channel | [BD global fashion channel](https://epg.pw/stream/9a95e2355d7324985f2e27fcfb7a0f1b60153bc42a1464a7729a2602e6c66436.m3u8) |
 | 719 | [BD]global news | [BD global news](https://epg.pw/stream/089112f4cbf077bc53d16083a94d76bbd51ac45f92aed1754b1748c4ba467b7e.m3u8) |
 | 720 | [HD]global tv | [HD global tv](https://epg.pw/stream/c9ba0cf59817ccb6303796ff6f876d3f1ed58f8029f927364f9fd5627a7af8de.m3u8) |
-| 721 | [HD]globo news 2 | [HD globo news 2](https://epg.pw/stream/4df80793f7f2f4a43e100ab8d51fe9e47fbda48087719dece1325ff981974f38.ctv) |
+| 721 | [BD]globo news 3 | [BD globo news 3](https://epg.pw/stream/95041b87245326b825282a05ae6ba3d13393d2b57bb2a161c61753ac47277d3f.ctv) |
 | 722 | [BD]globo rj | [BD globo rj](https://epg.pw/stream/8b975af88c45ae52d99a958f792fb73e196fae643511d2277e4cac383605b61d.ctv) |
 | 723 | [SD]golf network | [SD golf network](https://epg.pw/stream/ccf2003b8ce827dbb706476ff3281f9e3cc2a9ae0a4bf1ffd9b942630bd75fc7.m3u8) |
 | 724 | [BD]goodtv | [BD goodtv](https://epg.pw/stream/3fbce0df313db6fd7cac11fdfb6d867def885fff6d959200636a260193d37c1a.m3u8) |
@@ -1665,7 +1665,7 @@
 | 1659 | [BD]黑莓动画 | [BD 黑莓动画](https://epg.pw/stream/b912f72bcf6105e2622a43383de4876cf7084251f9ba2961832baf53c1f12d15.m3u8) |
 | 1660 | [BD]黑莓电影[ipv6] | [BD 黑莓电影 ipv6](https://epg.pw/stream/a106bba49a6159d54ee66205038e678acf94d13e34266e678ee7b08ce650766a.m3u8) |
 | 1661 | [BD]黑龙江影视[ipv6] | [BD 黑龙江影视 ipv6](https://epg.pw/stream/ed5dc2b0cc5b2b66aa555a138facfa40db8ca24d1225e593d45fc3bb8f07d688.m3u8) |
-| 1662 | [SD]黑龙江文体 | [SD 黑龙江文体](https://epg.pw/stream/565a4025d7cae8a70279415197739b0b2421c4301409539cf7e182ea251b4ab5.m3u8) |
+| 1662 | [VGA]黑龙江文体 | [VGA 黑龙江文体](https://epg.pw/stream/b79e30153b5459cfbff32c48fab86fe8a25721cfb9397fa2a3ad5c9ff27e8a2a.m3u8) |
 | 1663 | [VGA]黑龙江新闻法治 | [VGA 黑龙江新闻法治](https://epg.pw/stream/96f880b7640f6a9b54b46cc980132e9a824732a85a9b93fba194fb5977735412.m3u8) |
 | 1664 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.ctv) |
 | 1665 | [BD]黑龙江都市[ipv6] | [BD 黑龙江都市 ipv6](https://epg.pw/stream/7f0506c053e2d595749fd2c67c83e4abd7b5115ab0d735ae6eb8519dd9624bf6.m3u8) |
@@ -1676,4 +1676,4 @@
 | 1670 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 | 1671 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Wed Jan 10 2024 04:11:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 10 2024 06:12:28 GMT+0000 (Coordinated Universal Time)**
