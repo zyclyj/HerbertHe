@@ -42,7 +42,7 @@
 | 36 | [VGA]ANTV | [VGA ANTV](https://epg.pw/stream/642759aa486352a78a802e7def587401437e4e86d9f0e89818a7fcf67c434359.ctv) |
 | 37 | [HD]ASSP | [HD ASSP](https://epg.pw/stream/c74c503a8dcec82333bfc45eb8581e7c4e6acb0b9f5c71e8dac04662d9e8905d.ctv) |
 | 38 | [BD]ASSP3 | [BD ASSP3](https://epg.pw/stream/39d7a0e1efeadae55df283716c9dfaa7746e497d79c2089a6fe8eaf573be7ed2.ctv) |
-| 39 | [HD]ASSP4 | [HD ASSP4](https://epg.pw/stream/3dbf68812946709005efb022656c7136d4ac93bb558801d70bb36986b48d1ae6.ctv) |
+| 39 | [HD]ASSP4 | [HD ASSP4](https://epg.pw/stream/0f457766080b4073300e470264804c986b8b1b8a9e8b4b1f400da0080bc3ab42.ctv) |
 | 40 | [HD]ASTRO AEC | [HD ASTRO AEC](https://epg.pw/stream/6303c23ce9e241e47235965fcb8e4df7e1ca4c902b74859dd790a009251cd96b.ctv) |
 | 41 | [SD]ASTRO AOD 311 | [SD ASTRO AOD 311](https://epg.pw/stream/615bc45a25b9e4554b0857c4e4e48e590b2a31458e67f1f69d40b4044ab19603.ctv) |
 | 42 | [HD]ASTRO AURA | [HD ASTRO AURA](https://epg.pw/stream/c3c104e7dd542948f68a129b5b536976871633af353d562f89fd27ea9e517fd3.ctv) |
@@ -230,7 +230,7 @@
 | 224 | [BD]HBO 2 | [BD HBO 2](https://epg.pw/stream/90263acab607e48f4210d302e3326b98d6878136d8b7471629e925c0933fc523.ctv) |
 | 225 | [BD]HBO 2 HD USA | [BD HBO 2 HD USA](https://epg.pw/stream/e210a89da89a4cddf82d8f79f15b96462f5332b683cd187f377642a8cfcf6944.ctv) |
 | 226 | [BD]HBO 3 | [BD HBO 3](https://epg.pw/stream/c673071b204ae53017b181554932dbb13cc9763dc44922b0dbb2037d54ba0d19.ctv) |
-| 227 | [BD]HBO Comedy | [BD HBO Comedy](https://epg.pw/stream/04b8f605df2a98424c8b620d5ebfa7dc81a55ad5c2858d55d3f4aac9ca318688.ctv) |
+| 227 | [BD]HBO COMEDY | [BD HBO COMEDY](https://epg.pw/stream/3651493e8f6e40898fa39db0eba857e375f7422b7789fefc36b335f62f10967d.ctv) |
 | 228 | [BD]HBO East | [BD HBO East](https://epg.pw/stream/8c50158d2f6ebfb9a9877123080676c00f69248803e800393bcaac3710b375fc.ctv) |
 | 229 | [BD]hbo family | [BD hbo family](https://epg.pw/stream/b0729f2a4cb3931413d58b5c11f530b09314e758c59321590e655bdccb16da75.ctv) |
 | 230 | [BD]HBOFAMILYUSA | [BD HBOFAMILYUSA](https://epg.pw/stream/c932fd1243712e6ab3981f04904aefd5367153aa369c89d052f913dad8e62d27.ctv) |
@@ -1592,7 +1592,7 @@
 | 1586 | [BD]第一财经[ipv6] | [BD 第一财经 ipv6](https://epg.pw/stream/63130d80f95b886c9cf36daad57424b42b19018b62bd3e9490d26d3140ab5464.m3u8) |
 | 1587 | [BD]精彩电视剧 | [BD 精彩电视剧](https://epg.pw/stream/928ec61fb7568b106f35028dcf4575c4fc9c32522617d35d026abc83ac23687c.m3u8) |
 | 1588 | [BD]纯享4k[ipv6] | [BD 纯享4k ipv6](https://epg.pw/stream/6c8d76f2b98de6934fa07b46c9da8e06fe83a1a1c4301ab3af13c547d419acfb.m3u8) |
-| 1589 | [HD]经典电影 | [HD 经典电影](https://epg.pw/stream/50eb6a6d54bfd8f4b41ec04ed0dd01a5fbd5b85e1c9a0ab01c6f0bee91396748.ctv) |
+| 1589 | [SD]经典电影 | [SD 经典电影](https://epg.pw/stream/1374b45e065f6c41c32cf820f44625f4be03c3104d24ad841536eda06880cd58.ctv) |
 | 1590 | [HD]纬来日本 | [HD 纬来日本](rtmp://9sv2.mine.nu:1935/sat/tv771) |
 | 1591 | [VGA]纬来电影台 | [VGA 纬来电影台](https://epg.pw/stream/2e5be034655ad890ccea231870954edc27f6b59a7ac6c4a684cec7a90e9afab8.ctv) |
 | 1592 | [HD]纬来体育 | [HD 纬来体育](rtmp://9sv2.mine.nu/sat/tv721) |
@@ -1676,4 +1676,4 @@
 | 1670 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 | 1671 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Wed Jan 10 2024 02:24:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 10 2024 04:11:43 GMT+0000 (Coordinated Universal Time)**
