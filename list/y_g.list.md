@@ -78,7 +78,7 @@
 | 72 | 云南卫视「IPV6」 | [云南卫视「IPV6」](http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001223/index.m3u8?love=freedom) |
 | 73 | 三沙卫视「IPV6」 | [三沙卫视「IPV6」](http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS) |
 | 74 | 黑龙江卫视「IPV6」 | [黑龙江卫视「IPV6」](http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001031/index.m3u8?love=freedom) |
-| 75 | 凤凰香港「IPV6」 | [凤凰香港「IPV6」](http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8) |
+| 75 | 凤凰香港「IPV6」 | [凤凰香港「IPV6」](http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8) |
 | 76 | 凤凰中文「IPV6」 | [凤凰中文「IPV6」](http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8) |
 | 77 | 凤凰资讯「IPV6」 | [凤凰资讯「IPV6」](http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8) |
 | 78 | 第一财经「IPV6」 | [第一财经「IPV6」](http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001017/index.m3u8?love=freedom) |
@@ -2324,4 +2324,4 @@
 | 2318 | 足球超级猎食者(上) | [足球超级猎食者(上)](https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8) |
 | 2319 | 足球超级猎食者(下) | [足球超级猎食者(下)](https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8) |
 
-Updated at **Wed Jan 10 2024 06:12:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 10 2024 08:12:16 GMT+0000 (Coordinated Universal Time)**
