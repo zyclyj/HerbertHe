@@ -2812,7 +2812,7 @@ Csurgó TV (720p),http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8
 CTi Variety (中天综合台) (720p),http://23.237.10.66:16372
 CTV Afrique (720p),https://stream.it-innov.com/ctv/index.m3u8
 CTV Canal 76 (720p),https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
-Cubavisión Internacional (480p) [Not 24/7],http://190.122.96.187:8888/http/010
+Cubavisión Internacional (504p),https://tvup-live.secure2.footprint.net/cubavision/cubavision.mpd
 DniproTV (1080p),http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 Doble C Televisión [Not 24/7],https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 Dobrogea TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCmYNKMD89Xaxnqg2t-LeZgQ.m3u8

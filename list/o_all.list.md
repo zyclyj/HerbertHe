@@ -1137,7 +1137,7 @@
 | 1131 | CTV Canal 76 (720p) | [CTV Canal 76 (720p)](https://vdo2.streamgato.us:3978/live/ctvlive.m3u8) |
 | 1132 | CTV Internacional (1080p) | [CTV Internacional (1080p)](https://mediacp.us:8081/ctvhn/index.m3u8) |
 | 1133 | CTVN AKD Plus (1080p) [Not 24/7] | [CTVN AKD Plus (1080p)  Not 24/7](https://ythls.armelin.one/channel/UC1UOne4B9wIrMe0KMwe-7_g.m3u8) |
-| 1134 | Cubavisión Internacional (480p) [Not 24/7] | [Cubavisión Internacional (480p)  Not 24/7](http://190.122.96.187:8888/http/010) |
+| 1134 | Cubavisión Internacional (504p) | [Cubavisión Internacional (504p)](https://tvup-live.secure2.footprint.net/cubavision/cubavision.mpd) |
 | 1135 | DNews (1080p) [Not 24/7] | [DNews (1080p)  Not 24/7](https://ythls.armelin.one/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8) |
 | 1136 | DniproTV (1080p) | [DniproTV (1080p)](http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8) |
 | 1137 | DNJ TV (720p) | [DNJ TV (720p)](https://eu1.servers10.com:8081/wegqaafnsa/index.m3u8) |
@@ -4928,4 +4928,4 @@
 | 4922 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 4923 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Tue Jan 09 2024 22:08:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 10 2024 00:42:15 GMT+0000 (Coordinated Universal Time)**
