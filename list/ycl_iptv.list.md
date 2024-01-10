@@ -35,10 +35,10 @@
 | 29 | CBN新闻 | [CBN新闻](https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8) |
 | 30 | NHK世界 | [NHK世界](https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8) |
 | 31 | GB新闻 | [GB新闻](https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8) |
-| 32 | RT新闻 | [RT新闻](https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8) |
-| 33 | RT纪录 | [RT纪录](https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8) |
-| 34 | 金砖中文 | [金砖中文](http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8) |
-| 35 | 金砖英文 | [金砖英文](http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8) |
+| 32 | CG新闻 | [CG新闻](https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8) |
+| 33 | RT新闻 | [RT新闻](https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8) |
+| 34 | RT纪录 | [RT纪录](https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8) |
+| 35 | 金砖中文 | [金砖中文](http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8) |
 | 36 | TalkTV | [TalkTV](https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8) |
 | 37 | TRT世界 | [TRT世界](https://tv-trtworld.live.trt.com.tr/master_1080.m3u8) |
 | 38 | 台湾Plus | [台湾Plus](https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8) |
@@ -125,4 +125,4 @@
 | 119 | 高清电影 | [高清电影](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
 | 120 | 华数超清 | [华数超清](http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId) |
 
-Updated at **Wed Jan 10 2024 12:16:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 10 2024 14:09:05 GMT+0000 (Coordinated Universal Time)**
