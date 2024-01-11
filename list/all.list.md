@@ -945,7 +945,7 @@
 | 939 | [BD]pbs national east (1080p) [geo-blocked][geo-blocked] | [BD pbs national east (1080p)  geo-blocked  geo-blocked](https://epg.pw/stream/e724734275ebf3622663c1aa1549632cc9ff758c9741b1ae8837b2bc4f7bad92.m3u8) |
 | 940 | [HD]persian film | [HD persian film](https://epg.pw/stream/7afb502db7895916fba26bf6595af302423b6f694885f0d05da804ab414fb5d6.m3u8) |
 | 941 | [BD]pet club tv | [BD pet club tv](https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8) |
-| 942 | [HD]playboy tv | [HD playboy tv](https://epg.pw/stream/ba0fc03dd3112ffdadf758bfceada5e519c6f4099f4441e31a9c70acb6a2b098.m3u8) |
+| 942 | [HD]playboy | [HD playboy](https://epg.pw/stream/472d3ba01b7c397deb7e04490166564a46570c73ca7907bd075dc4b220ab99eb.m3u8) |
 | 943 | [VGA]plex tv (360p) [not 24/7] | [VGA plex tv (360p)  not 24/7](https://epg.pw/stream/63d8336ff15c6cd0e3cda1d15b1f0d12bdd69f1ce78f286061fc9205bd920e88.m3u8) |
 | 944 | [BD]pmc | [BD pmc](https://epg.pw/stream/4d6f71836e748a80c8d7617120a2deed3d6f622c921a5735a0fd20216d470664.m3u8) |
 | 945 | [HD]polsat | [HD polsat](https://epg.pw/stream/1828a6ec05f028453a448df9c6cec4b31d1543263d39cb89bb20fafd5bc7bb64.m3u8) |
@@ -1689,4 +1689,4 @@
 | 1683 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 | 1684 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Thu Jan 11 2024 04:31:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 11 2024 04:33:48 GMT+0000 (Coordinated Universal Time)**
