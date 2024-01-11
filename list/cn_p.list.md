@@ -1,4 +1,4 @@
-# List for **China Province**
+# List for **epg.pw China Province**
 
 > M3U: [cn_p.m3u](/cn_p.m3u), TXT: [cn_p.txt](/txt/cn_p.txt)
 
@@ -39,4 +39,4 @@
 | 33 | [SD]青海卫视 | [SD 青海卫视](https://epg.pw/stream/bb84d47770b5abe3f2c560c48c7487b6acd6133bea36ff22f1f5af1304512ac0.ctv) |
 | 34 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.ctv) |
 
-Updated at **Thu Jan 11 2024 04:11:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 11 2024 04:31:47 GMT+0000 (Coordinated Universal Time)**
