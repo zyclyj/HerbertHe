@@ -188,7 +188,7 @@ Generic,#genre#
 [HD]ASTROOASIS,https://epg.pw/stream/2a28c176e269ed3295ff6e0b58d4fc5102607e8cc0caee1f74cce771bb4f58dc.ctv
 [HD]ASTRORANIA,https://epg.pw/stream/cffbaaa3bb623d0cfb560aa1739f33ec7df4ca39003278cdbd53c4f0d3665437.ctv
 [HD]Astro华丽台(翡MAS),https://epg.pw/stream/e127d8fc2e1dda4f5969a3b56751c730e65c98f5558605fad6a86e19751c4340.ctv
-[HD]ASTRO QJ,https://epg.pw/stream/94b30fcbbbc0ca74c6587d4b9b445d289ce798f4918048439ef6e20a4241c8c2.ctv
+[HD]ASTRO QJ,https://epg.pw/stream/c36fe353d5e809c44f4908308b58b5f5aaf16ddb777a8698167f19e3f68a8652.ctv
 [HD]KPLUS HD,https://epg.pw/stream/72d02f95933ca84c7bb2e09ed82d953b040fe92c9b6c09706b98b3a2cc11fc08.ctv
 [SD]B4U MUSIC,https://epg.pw/stream/6afb7fe63566f22a8f2fa968156d1fad691dbad685fe311191937b06c8adf109.ctv
 [BD]BBC 1,https://epg.pw/stream/f0df10e5707f05fc7f41f56fbf2cb2c5482b6ecb0ace8a45d6ca649857de4f20.ctv
@@ -1210,7 +1210,7 @@ News,#genre#
 [BD]tokyo mx2,https://epg.pw/stream/80a4bd174c194730231712667a605d3a4ffffa88382fe8d1591ecf19b0a85f65.m3u8
 [HD]tomato,https://epg.pw/stream/0a75d1407880165806daca0ce2f0bcac178c98dae9a1a0248df704ecee370760.m3u8
 [BD]trt,https://epg.pw/stream/84c84614faf0b704d398043c5c82b957247e215750c6f9f136ed2c253b198745.m3u8
-[BD]trt world (1080p) [not 24/7],https://epg.pw/stream/c0076d68f582bc614cf99432d5e831cb765f9ecb63ad424399836076634dd08a.m3u8
+[BD]trt world,https://epg.pw/stream/6fe0f61fc374bdbb797bbdb5f6bbea1255f6b7a9738392e323bebdb3b910971f.m3u8
 [HD]tv nrsr,https://epg.pw/stream/7418f1472c353368645c2ee8b780e4c0e739d75a640d8c1133a11c1175ea5c75.m3u8
 [BD]tv2 [geo-blocked][geo-blocked],https://epg.pw/stream/bdb6fa49aa432bb8d0bf32b11058a959f201c60d0ba23da6c36346c04a6597db.m3u8
 [BD]tvbs新闻,https://epg.pw/stream/34b62c472f066e823052d269c322b8dc8150262fa8022acd359cd6702296b794.m3u8

@@ -75,7 +75,7 @@
 | 69 | [SD]ASTROAOD353 | [SD ASTROAOD353](https://epg.pw/stream/ebde60462a1674679ed6b2cbc796d61fe9bb40c03f9e7d542dbe2be18b267411.ctv) |
 | 70 | [SD]ASTRO AOD 354 | [SD ASTRO AOD 354](https://epg.pw/stream/42f6e0639620df2ef550ee61d3c2a6afb5d2de20db57d5ef93c7ab29acdceb82.ctv) |
 | 71 | [HD]ASRTO PREMIER | [HD ASRTO PREMIER](https://epg.pw/stream/513fccb78a428cabb7282a12764dc51e53299a61f22e6866d1d1209cfea27c9f.ctv) |
-| 72 | [HD]ASTRO QJ | [HD ASTRO QJ](https://epg.pw/stream/94b30fcbbbc0ca74c6587d4b9b445d289ce798f4918048439ef6e20a4241c8c2.ctv) |
+| 72 | [HD]ASTRO QJ | [HD ASTRO QJ](https://epg.pw/stream/c36fe353d5e809c44f4908308b58b5f5aaf16ddb777a8698167f19e3f68a8652.ctv) |
 | 73 | [VGA]Astro Ria | [VGA Astro Ria](https://epg.pw/stream/22d13da57ee20791381d0ef983312a1e1b9130b908720a69a3cfce90cc6d7882.ctv) |
 | 74 | [HD]ASSP2 | [HD ASSP2](https://epg.pw/stream/4549f42e0edfc73b7c4a69ce6daff98762424bc4d0081b613547061cca83a79a.ctv) |
 | 75 | [BD]AstroSupersports1 | [BD AstroSupersports1](https://epg.pw/stream/539443bad7c068504d51e8d1d65774b2279e6137ac4743038e0195868df9ebdc.ctv) |
@@ -1153,7 +1153,7 @@
 | 1147 | [HD]trt kurdî (720p) | [HD trt kurdî (720p)](https://epg.pw/stream/bfb21352bd1350f7339e4819c08223495cea26566566b9f746c8c3b817d5804d.m3u8) |
 | 1148 | [HD]trt müzik | [HD trt müzik](https://epg.pw/stream/cf5de6e4a883bb90affbf226c0e46c354ffe79532a701908d2c4a877bf0ec430.m3u8) |
 | 1149 | [HD]trt türk (720p) | [HD trt türk (720p)](https://epg.pw/stream/ea2f0c9d10b86991ed81cac2ff90fdfd6fac833592994a884c4cdc75514549dd.m3u8) |
-| 1150 | [BD]trt world (1080p) [not 24/7] | [BD trt world (1080p)  not 24/7](https://epg.pw/stream/c0076d68f582bc614cf99432d5e831cb765f9ecb63ad424399836076634dd08a.m3u8) |
+| 1150 | [BD]trt world | [BD trt world](https://epg.pw/stream/6fe0f61fc374bdbb797bbdb5f6bbea1255f6b7a9738392e323bebdb3b910971f.m3u8) |
 | 1151 | [HD]true african (720p) | [HD true african (720p)](https://epg.pw/stream/3390feaa27449c0f9873439ccb3f2e40f277b1efaa01b870963c39ae7fea03a9.m3u8) |
 | 1152 | [BD]true sport premier 2 | [BD true sport premier 2](https://epg.pw/stream/9a75a023cd2ba84a8a6662d5d1910175db680ea84f2d8bd349fcb62c40e5db4e.m3u8) |
 | 1153 | [BD]true4u | [BD true4u](https://epg.pw/stream/ea3bb3adb0a813f5f1374a8c6f45bb15ee26f4121915fa67b6410ad9f372ecbc.m3u8) |
@@ -1683,4 +1683,4 @@
 | 1677 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 | 1678 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Fri Jan 12 2024 14:08:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 12 2024 16:11:55 GMT+0000 (Coordinated Universal Time)**
