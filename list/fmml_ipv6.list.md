@@ -23,13 +23,13 @@
 | 17 | CCTV-16 奥林匹克 | [CCTV-16 奥林匹克](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8) |
 | 18 | CCTV-17 农业农村 | [CCTV-17 农业农村](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8) |
 | 19 | CCTV-16 奥林匹克 4K | [CCTV-16 奥林匹克 4K](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8) |
-| 20 | CCTV-4K 超高清 | [CCTV-4K 超高清](http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8) |
-| 21 | CCTV-8K 超高清 | [CCTV-8K 超高清](http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3) |
-| 22 | CHC动作电影 | [CHC动作电影](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8) |
-| 23 | CHC家庭影院 | [CHC家庭影院](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8) |
-| 24 | CHC高清电影 | [CHC高清电影](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8) |
-| 25 | 凤凰中文 | [凤凰中文](https://0472.org/hls/fhzw.m3u8?youzaiSB) |
-| 26 | 凤凰资讯 | [凤凰资讯](https://0472.org/hls/fhzx.m3u8?youzaiSB) |
+| 20 | CCTV-8K 超高清 | [CCTV-8K 超高清](http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3) |
+| 21 | CHC动作电影 | [CHC动作电影](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8) |
+| 22 | CHC家庭影院 | [CHC家庭影院](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8) |
+| 23 | CHC高清电影 | [CHC高清电影](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8) |
+| 24 | 凤凰中文 | [凤凰中文](https://0472.org/hls/youzaiSB/fhzw.m3u8?youzaiSB) |
+| 25 | 凤凰资讯 | [凤凰资讯](https://0472.org/hls/youzaiSB/fhzx.m3u8?youzaiSB) |
+| 26 | 凤凰香港 | [凤凰香港](https://0472.org/hls/youzaiSB/fhhk.m3u8?youzaiSB) |
 | 27 | 北京卫视 | [北京卫视](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8) |
 | 28 | 湖南卫视 | [湖南卫视](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8) |
 | 29 | 东方卫视 | [东方卫视](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8) |
@@ -185,4 +185,4 @@
 | 179 | 家有购物 | [家有购物](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001244/index.m3u8) |
 | 180 | 快乐购 | [快乐购](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001368/index.m3u8) |
 
-Updated at **Fri Jan 12 2024 00:42:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 12 2024 02:25:12 GMT+0000 (Coordinated Universal Time)**
