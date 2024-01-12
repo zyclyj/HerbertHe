@@ -1131,7 +1131,7 @@
 | 1125 | [BD]tn todo noticias (1080p) | [BD tn todo noticias (1080p)](https://epg.pw/stream/3af4fa110888f54a28ce8f03612a559d0752c8c813cbc96119f7b92af5f9b488.m3u8) |
 | 1126 | [BD]tnn2 | [BD tnn2](https://epg.pw/stream/b0182bde6f5debbc0d207f3bad727e42bfcdacb45ed98eed97b1ec818972fce1.m3u8) |
 | 1127 | [BD]tnn24 | [BD tnn24](https://epg.pw/stream/449910c577fa4b9756bfddcdd0bfe960ed1a74c95de59e032669acfc20af5315.m3u8) |
-| 1128 | [BD]tntv | [BD tntv](https://epg.pw/stream/446d5790bb32446d4fa0080dec7f17705a6fbc1bffe2a4319bad33c0ed8bb187.m3u8) |
+| 1128 | [BD]tnt | [BD tnt](https://epg.pw/stream/af026df011f1c2cf773e3698f68aa7747094d36dfbdbd434144958a4f0e5ed04.ctv) |
 | 1129 | [BD]tokyo mx2 | [BD tokyo mx2](https://epg.pw/stream/80a4bd174c194730231712667a605d3a4ffffa88382fe8d1591ecf19b0a85f65.m3u8) |
 | 1130 | [HD]tomato | [HD tomato](https://epg.pw/stream/0a75d1407880165806daca0ce2f0bcac178c98dae9a1a0248df704ecee370760.m3u8) |
 | 1131 | [VGA]toon goggles (720p) [not 24/7] | [VGA toon goggles (720p)  not 24/7](https://epg.pw/stream/b324b57b4fe80ff24d318f5e29ebce72023d96191b23792fc64b4d5fa7c6e48a.m3u8) |
@@ -1685,4 +1685,4 @@
 | 1679 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 | 1680 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Fri Jan 12 2024 02:25:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 12 2024 04:11:53 GMT+0000 (Coordinated Universal Time)**
