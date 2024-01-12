@@ -152,4 +152,4 @@
 | 146 | [SD]黑龙江公共农业 | [SD 黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
 | 147 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 
-Updated at **Fri Jan 12 2024 04:11:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 12 2024 06:12:47 GMT+0000 (Coordinated Universal Time)**
