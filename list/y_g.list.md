@@ -15,7 +15,7 @@
 | 9 | 纯享 4K「IPV6」 | [纯享 4K「IPV6」](http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8) |
 | 10 | SiTV欢笑剧场4K 「IPV6」 | [SiTV欢笑剧场4K 「IPV6」](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
 | 11 | 华数4K「IPV6」 | [华数4K「IPV6」](http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3) |
-| 12 | CCTV3 4K「IPV6」 | [CCTV3 4K「IPV6」](http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8) |
+| 12 | CCTV3 4K「IPV6」 | [CCTV3 4K「IPV6」](http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8) |
 | 13 | CCTV16 4K「IPV6」 | [CCTV16 4K「IPV6」](http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8) |
 | 14 | CCTV4K「IPV6」 | [CCTV4K「IPV6」](http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8) |
 | 15 | CCTV8K「IPV6」 | [CCTV8K「IPV6」](http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8) |
@@ -2324,4 +2324,4 @@
 | 2318 | 足球超级猎食者(上) | [足球超级猎食者(上)](https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8) |
 | 2319 | 足球超级猎食者(下) | [足球超级猎食者(下)](https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8) |
 
-Updated at **Fri Jan 12 2024 10:10:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 12 2024 12:16:26 GMT+0000 (Coordinated Universal Time)**
