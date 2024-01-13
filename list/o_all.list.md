@@ -1416,7 +1416,7 @@
 | 1410 | Excel Discovery TV (480p) [Not 24/7] | [Excel Discovery TV (480p)  Not 24/7](http://connectiktv.ddns.me:8080/live/61f6352d2b4d5-1/index.m3u8) |
 | 1411 | Excélsior TV (720p) [Not 24/7] | [Excélsior TV (720p)  Not 24/7](https://ythls.armelin.one/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8) |
 | 1412 | Exclusiv TV (1080p) [Not 24/7] | [Exclusiv TV (1080p)  Not 24/7](https://ythls.armelin.one/channel/UCXxTnMoETkhNTmsqZc0JMhQ.m3u8) |
-| 1413 | Exitosa (720p) | [Exitosa (720p)](https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8) |
+| 1413 | Exitosa (720p) | [Exitosa (720p)](https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8) |
 | 1414 | Exodus TV (720p) | [Exodus TV (720p)](https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8) |
 | 1415 | Explore By TVPlayer (720p) | [Explore By TVPlayer (720p)](https://alchimie-explorebytvplayer-fr-rakuten.amagi.tv/playlist.m3u8) |
 | 1416 | Exploris (576p) [Not 24/7] | [Exploris (576p)  Not 24/7](http://89.38.8.130:39419) |
@@ -2110,7 +2110,7 @@
 | 2104 | Kappa TV (360p) | [Kappa TV (360p)](https://idvd.multitvsolution.com/idvo/kappatv.m3u8) |
 | 2105 | Karcag TV (720p) | [Karcag TV (720p)](https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8) |
 | 2106 | Kardelen TV (1080p) | [Kardelen TV (1080p)](https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8) |
-| 2107 | Karibeña (720p) [Not 24/7] | [Karibeña (720p)  Not 24/7](https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8) |
+| 2107 | Karibeña (720p) [Not 24/7] | [Karibeña (720p)  Not 24/7](https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8) |
 | 2108 | Kartoon Channel | [Kartoon Channel](https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8) |
 | 2109 | Kaset Channel (720p) | [Kaset Channel (720p)](http://183.89.246.119:8881/play/a0ae/index.m3u8) |
 | 2110 | Kashish News (720p) | [Kashish News (720p)](https://kashishnews.livebox.co.in/kashishnewshls/live.m3u8) |
@@ -4931,4 +4931,4 @@
 | 4925 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 4926 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Fri Jan 12 2024 22:08:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 13 2024 00:41:39 GMT+0000 (Coordinated Universal Time)**

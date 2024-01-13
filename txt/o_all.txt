@@ -3345,7 +3345,7 @@ Kadak Hits (1080p) [Not 24/7],https://live.hungama.com/linear/kadak-hits/playlis
 Kalaignar Murasu (576p) [Not 24/7],https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 Kalika TV (576p) [Not 24/7],http://185.105.4.244:1935/livesp/kalika/playlist.m3u8
 KandelaTV (480p),https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-Karibeña (720p) [Not 24/7],https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+Karibeña (720p) [Not 24/7],https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8
 Kayo Pops (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
 Kiss TV (1080p),https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 Klape i Tambure TV (1080p),https://stream.cmctv.hr:49998/kit/live.m3u8
@@ -3601,7 +3601,7 @@ Euronews Serbia (1080p),https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngr
 Euronews Spanish,https://stream.ads.ottera.tv/playlist.m3u8?network_id=2577
 Euronews по-русски [Not 24/7],https://ythls.armelin.one/channel/UCFzJjgVicCtFxJ5B0P_ei8A.m3u8
 Europe1,https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/Europe1.m3u8
-Exitosa (720p),https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+Exitosa (720p),https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 Express News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCTur7oM6mLL0rM2k0znuZpQ.m3u8
 Expressen TV (1080p),https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
 eXtra Live (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCXw5vClfMWccw-OocfhQHiA.m3u8
