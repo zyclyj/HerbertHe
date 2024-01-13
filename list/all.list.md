@@ -68,7 +68,7 @@
 | 62 | [HD]anime all day | [HD anime all day](https://epg.pw/stream/24ed266eff555213de6e7f03deae8e658f45f667e21e1c25a74edb63681eea80.m3u8) |
 | 63 | [VGA]anime tv | [VGA anime tv](https://epg.pw/stream/1d6445e7f7a11a3b649007a9a6b3ebe3b85113eca7e9e886ecc4b1c1b6c40d9d.m3u8) |
 | 64 | [HD]arise news (576p) | [HD arise news (576p)](https://epg.pw/stream/10210a2d2a6ab12f36b3f9c77b49eafe76ba4f304372098b8e74a83e561eab60.m3u8) |
-| 65 | [SD]ASTROAOD351 | [SD ASTROAOD351](https://epg.pw/stream/1b02501c038b6deb5716a07de51a796b1329b8d9398e2803fda745516213f851.ctv) |
+| 65 | [SD]ASTROAOD351 | [SD ASTROAOD351](https://epg.pw/stream/57260970ae76ad24264b27861a961a3de771433fa13e3bd22396e538491134aa.ctv) |
 | 66 | [SD]ASTRO AOD 352 | [SD ASTRO AOD 352](https://epg.pw/stream/d0c747edd23eb9bf56eedf6e36cfe28baf78f3f83c5d2e0d3072b490b15d8d73.ctv) |
 | 67 | [SD]ASTROAOD353 | [SD ASTROAOD353](https://epg.pw/stream/6c713fc8296dd40cbeca44dbff4aa706948580827854ca426a029b248c7c420a.ctv) |
 | 68 | [SD]ASTRO AOD 354 | [SD ASTRO AOD 354](https://epg.pw/stream/42f6e0639620df2ef550ee61d3c2a6afb5d2de20db57d5ef93c7ab29acdceb82.ctv) |
@@ -410,7 +410,7 @@
 | 404 | [HD]tv nova (720p) | [HD tv nova (720p)](https://epg.pw/stream/da4cec2f6b8def133443378f2216691947d2f6f9f155f621a21e6317884d24f6.m3u8) |
 | 405 | [HD]TV1 Malaysia | [HD TV1 Malaysia](https://epg.pw/stream/a47d5354b92756def1b770effad162a934a196a4efef39bd8f2698f165a18471.ctv) |
 | 406 | [HD]TV2 Malaysia | [HD TV2 Malaysia](https://epg.pw/stream/3ba6572aef26d0372892d6bdc51dd0acd0c2b314d23e81863d21665ab34c879a.ctv) |
-| 407 | [SD]TV3 Malaysia | [SD TV3 Malaysia](https://epg.pw/stream/29fbc79bbf1b04c582ccb6637a21580a3617cb0707ec84d0f645ce78f8328d26.ctv) |
+| 407 | [SD]TV3 Malaysia | [SD TV3 Malaysia](https://epg.pw/stream/658c3deab185952e0fbdcd9067b3884a87d7db818f8e2dddd1389f704fe576a5.ctv) |
 | 408 | [HD]tv5 hd | [HD tv5 hd](https://epg.pw/stream/56199538b07b1202bcacabfdb002454b3d41d6268e5f96586504e9125ef97487.m3u8) |
 | 409 | [BD]tvb j2 | [BD tvb j2](https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv) |
 | 410 | [VGA]tvbs 新闻 | [VGA tvbs 新闻](https://epg.pw/stream/00c14f2d9028476600ce529e01307b3850eacdf925d087e697a7233c759200dd.ctv) |
@@ -725,7 +725,7 @@
 | 719 | [VGA]france 24 english | [VGA france 24 english](https://epg.pw/stream/17974cddcc3998fb78a274c78843a41844e9582c9eabac27c7a930eba1453427.m3u8) |
 | 720 | [BD]franken fernsehen (nürnberg) (1080p) [not 24/7] | [BD franken fernsehen (nürnberg) (1080p)  not 24/7](https://epg.pw/stream/03e3845d295449e3499269a9e36eabbd65fc5e2b379e60852c713bad9b16b363.m3u8) |
 | 721 | [BD]freedom (freeдom) (uatv) (720p) | [BD freedom (freeдom) (uatv) (720p)](https://epg.pw/stream/f158ecf6a3a28bcf51aca7fc4273121ede59c16db76cb1d5b5dfbf7fe9f24297.m3u8) |
-| 722 | [HD]frenchlover | [HD frenchlover](https://epg.pw/stream/5a26b68c75fb825addf8df0264db67729fe4d464a4101b55ebaa4ebd6c9d8f50.m3u8) |
+| 722 | [HD]french lover | [HD french lover](https://epg.pw/stream/05a6207965aed3400d9b648e51da83dda363f6ef1607bc44821608ad3eb33fc6.m3u8) |
 | 723 | [HD]fresh (720p) | [HD fresh (720p)](https://epg.pw/stream/b6b92f839830c390d9993d50373c9c129f5ca5df860a215269e5e4c611fffea8.m3u8) |
 | 724 | [HD]galicia tv américa (720p) | [HD galicia tv américa (720p)](https://epg.pw/stream/790404d0677d600372644f616b09b9d86812cd019c4922a20b14fc4710d20925.m3u8) |
 | 725 | [HD]game show central | [HD game show central](https://epg.pw/stream/967b5fce1469aed98c1de217ebf7d9bfb8947caf9a3803d320d55295cff04c4c.m3u8) |
@@ -1335,7 +1335,7 @@
 | 1329 | [HD]スターチャンネル2 | [HD スターチャンネル2](https://epg.pw/stream/ba8117a081e60892e42c8338bd4b40f29b54b581e7833366f7cc119d520a5bb5.m3u8) |
 | 1330 | [SD]スペースシャワーtv | [SD スペースシャワーtv](https://epg.pw/stream/df83cc377ee798acba6fb9b2e832f14cb99fd8d14f22907281c5d45d28a4fa8d.m3u8) |
 | 1331 | [BD]チャンネル银河 | [BD チャンネル银河](https://epg.pw/stream/05c4e6284ec59f5fe76f32eb012ca712fbc94e6cd48c7853026e12227677be46.m3u8) |
-| 1332 | [HD]朝日放送テレビ | [HD 朝日放送テレビ](https://epg.pw/stream/2607822ba1f194115ab1e339915fc0c518f379d59a64c06a24a74833ef2b81f6.m3u8) |
+| 1332 | [SD]テレビ朝日 | [SD テレビ朝日](https://epg.pw/stream/3f7274450074a9ae49fa1df714c3ab8bd238f987109a80ba17e1e2cdada13292.m3u8) |
 | 1333 | [BD]テレビ东京 | [BD テレビ东京](https://epg.pw/stream/7491a0a7defdc1cef4e2b14499e00beb41bce9dd23da3c65416072c5f110db67.ctv) |
 | 1334 | [SD]ファミリー剧场 | [SD ファミリー剧场](https://epg.pw/stream/6fc286d9de1e0d436af1e5c96b17d5eaf566317cb948fe42d07a782525460a65.m3u8) |
 | 1335 | [HD]フジテレビ | [HD フジテレビ](https://epg.pw/stream/d8811b80309498d217a3ab93c6c15bcd1df6a5e9eda31bb4b498efd9ecd436c8.m3u8) |
@@ -1444,7 +1444,7 @@
 | 1438 | [BD]安徽公共 | [BD 安徽公共](https://epg.pw/stream/3e096a4f4026aded7c3adeb1992d1804bda5fd78f080085f0ee77e55ffc370f5.m3u8) |
 | 1439 | [BD]安徽国际 | [BD 安徽国际](https://epg.pw/stream/4c768e6130f5aabac4acb0c6004fac7cf6a0d032ffba42bd62e66e1cb6804249.m3u8) |
 | 1440 | [BD]安徽导视 | [BD 安徽导视](https://epg.pw/stream/a7246583550aa4f39c3c5c71f7aaee412061387be1b7e5b57ad7c11513507106.m3u8) |
-| 1441 | [BD]安徽影视 | [BD 安徽影视](https://epg.pw/stream/187fb1713e25f3c9e08c3cb9b472c66b1bbba8e053ccfe917df15a73740e483a.m3u8) |
+| 1441 | [BD]安徽影视 | [BD 安徽影视](https://epg.pw/stream/a34aa2b2f8b89143f5d1d219d14e07aff3a540dcee1a8827a7493d54a6dbe218.ctv) |
 | 1442 | [BD]安徽综艺体育 | [BD 安徽综艺体育](https://epg.pw/stream/52a67a7e9039d1da74047e93f2e80984a72f6c4103046de2f54f89c6b9607514.m3u8) |
 | 1443 | [BD]安徽综艺 | [BD 安徽综艺](https://epg.pw/stream/af542df52a4128f36bece82b0a65ccd7cf8db5dc36951fe04bd4e656d08f6e0e.m3u8) |
 | 1444 | [BD]安徽卫视 | [BD 安徽卫视](https://epg.pw/stream/1553d046a4b85ec519b01fc432bcfb3d515c38bb093aed80b99423da6d08547f.m3u8) |
@@ -1717,4 +1717,4 @@
 | 1711 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 | 1712 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Sat Jan 13 2024 16:10:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 13 2024 18:10:47 GMT+0000 (Coordinated Universal Time)**
