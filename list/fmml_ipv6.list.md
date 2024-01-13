@@ -27,9 +27,9 @@
 | 21 | CHC动作电影 | [CHC动作电影](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8) |
 | 22 | CHC家庭影院 | [CHC家庭影院](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8) |
 | 23 | CHC高清电影 | [CHC高清电影](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8) |
-| 24 | 凤凰中文 | [凤凰中文](https://0472.org/hls/youzaiSB/fhzw.m3u8) |
-| 25 | 凤凰资讯 | [凤凰资讯](https://0472.org/hls/youzaiSB/fhzx.m3u8) |
-| 26 | 凤凰香港 | [凤凰香港](https://0472.org/hls/youzaiSB/fhhk.m3u8) |
+| 24 | 凤凰中文 | [凤凰中文](http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8) |
+| 25 | 凤凰资讯 | [凤凰资讯](http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8) |
+| 26 | 凤凰香港 | [凤凰香港](http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8) |
 | 27 | 北京卫视 | [北京卫视](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8) |
 | 28 | 湖南卫视 | [湖南卫视](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8) |
 | 29 | 东方卫视 | [东方卫视](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8) |
@@ -185,4 +185,4 @@
 | 179 | 家有购物 | [家有购物](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001244/index.m3u8) |
 | 180 | 快乐购 | [快乐购](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001368/index.m3u8) |
 
-Updated at **Sat Jan 13 2024 00:41:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 13 2024 02:25:05 GMT+0000 (Coordinated Universal Time)**
