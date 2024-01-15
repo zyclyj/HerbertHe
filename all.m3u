@@ -1705,6 +1705,8 @@ https://epg.pw/stream/016d40303eab954235e670ccbed46d197b215411e4e94c9496090392f7
 https://epg.pw/stream/e0cbf675eccbd41c0538939470cf04ec3beec8503e32ddaee590d67b85ce7dce.m3u8
 #EXTINF:-1 tvg-name="moldova tv (576p) [not 24/7]" tvg-id="5747" tvg-country="Moldova" tvg-language="Română" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/15/20150815214954768297_45.jpg" group-title="Generic",[SD]moldova tv (576p) [not 24/7]
 https://epg.pw/stream/cc3b0c9264e2b8018e362d6f5e71139ba6c9bc365d6fd8f1898869bcde0667e7.ctv
+#EXTINF:-1 tvg-name="momo亲子台" tvg-id="" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/bda3f89bec11e28ca511fc0f90e21ab3.jpg" group-title="Cartoon",[BD]momo亲子台
+https://epg.pw/stream/cb7ba3182a9e224f31ce655efac2f1308485c834391ecbc310b236646fc53bfa.m3u8
 #EXTINF:-1 tvg-name="mondo tv" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/08/27/large/20210827185901519156_37.png" group-title="Movie",[SD]mondo tv
 https://epg.pw/stream/991d8b0d724b80d5e366e668e8724488d8308131fa9fca1a1be613a75e25c3f2.m3u8
 #EXTINF:-1 tvg-name="motor1 tv" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/13/20150513070301580726_30.png" group-title="Sport",[HD]motor1 tv

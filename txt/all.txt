@@ -1588,6 +1588,7 @@ Cartoon,#genre#
 [VGA]KidsTV,https://epg.pw/stream/29d2d6b1642e27646f0d2ba961551c37d16376f2b3a0cde6347e437ace33bf0d.ctv
 [SD]kika,https://epg.pw/stream/636dc914cff4215d29fb773f92ae9b071a5875a0ffe32a9dea40888638c9d43e.m3u8
 [BD]koogi tv (1080p),https://epg.pw/stream/327293d97c19c2fac64bc04a27a6ceb472d04f9eee8fa978c29fe3c32760f2ff.m3u8
+[BD]momo亲子台,https://epg.pw/stream/cb7ba3182a9e224f31ce655efac2f1308485c834391ecbc310b236646fc53bfa.m3u8
 [HD]nickelodeon australia (576p),https://epg.pw/stream/cbca7941f3913838e87f3b5d10b5b99039480a7f1c9d5c20b63b43154e4f2ff9.m3u8
 [HD]on kids,https://epg.pw/stream/ac4c4452f11c774abef181557bc9ec946380359fb89cae74479812fba206c259.m3u8
 [VGA]rcg tv,https://epg.pw/stream/a73f34ecd446ada2eff55b245f83ca92d074cfa45c44db7fa099082585d1bef5.m3u8
