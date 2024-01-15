@@ -75,7 +75,7 @@
 | 69 | [HD]ASRTO PREMIER | [HD ASRTO PREMIER](https://epg.pw/stream/513fccb78a428cabb7282a12764dc51e53299a61f22e6866d1d1209cfea27c9f.ctv) |
 | 70 | [VGA]Astro Ria | [VGA Astro Ria](https://epg.pw/stream/22d13da57ee20791381d0ef983312a1e1b9130b908720a69a3cfce90cc6d7882.ctv) |
 | 71 | [HD]ASSP2 | [HD ASSP2](https://epg.pw/stream/4549f42e0edfc73b7c4a69ce6daff98762424bc4d0081b613547061cca83a79a.ctv) |
-| 72 | [BD]AstroSupersports1 | [BD AstroSupersports1](https://epg.pw/stream/a692f55c90bfb7e79ffb7ad8c7790670b4323129cc47631955239ede76093de7.ctv) |
+| 72 | [BD]AstroSupersports1 | [BD AstroSupersports1](https://epg.pw/stream/e9905e8e5dbb7c636ee23aadef1c99abbb0832fe04b740359af5d79944d4dbbc.ctv) |
 | 73 | [BD]Astro Supersports 2 | [BD Astro Supersports 2](https://epg.pw/stream/79d191a7d8ff2b7c8dbbe56e33ac90d77ed8faffba501128cf7667ba3d8cd542.ctv) |
 | 74 | [SD]Astro Supersports 3 | [SD Astro Supersports 3](https://epg.pw/stream/02c84bbd84c519f27405ad3fc1054e601f5dfe8bbbce8169f0cb2be4f6a3fb3c.ctv) |
 | 75 | [SD]astrotv | [SD astrotv](https://epg.pw/stream/61b47eb5e7551f99a32454d3ba9b9baf0f579ea58e697ed0e65db4983302caa5.m3u8) |
@@ -209,10 +209,10 @@
 | 203 | [HD]FOODNETWORK | [HD FOODNETWORK](https://epg.pw/stream/f6882c53c2bfcf3adcf358349b1e99ed8f61e722874f031ea66a4f4d0befbb6e.ctv) |
 | 204 | [SD]Fox | [SD Fox](https://epg.pw/stream/960aef00dc3be4bbd5488a2cccf1aacc0260423aa52ef21b14becd2e017127a7.ctv) |
 | 205 | [HD]ASTRO小太阳 | [HD ASTRO小太阳](https://epg.pw/stream/174d105019b0ba17c941d1aa30bc988ebd4b42f9b6b45f586b6bc8f925f3bac3.ctv) |
-| 206 | [HD]rakuten action movies germany (720p) | [HD rakuten action movies germany (720p)](https://epg.pw/stream/c61d20c751e84a36a9da8f0341deb5f46731f4bd0855b9f48106bb15495c888e.m3u8) |
+| 206 | [HD]rakuten action movies italy (720p) | [HD rakuten action movies italy (720p)](https://epg.pw/stream/dce11561225a65bd2e7a71eab6d3bf0d307d9ba6abf78d2afa4f672892ce19c0.m3u8) |
 | 207 | [HD]ช่อง rakuten family movies | [HD ช่อง rakuten family movies](https://epg.pw/stream/cb941d80cf6f4cf188e1349de966121c817bf6f42389cd56df0b62d713adc6cf.m3u8) |
 | 208 | [SD]FOX MOVIES | [SD FOX MOVIES](https://epg.pw/stream/317a96263326bd9e196e549899795a5382b92b544fd7eac9787954985c6bd47e.ctv) |
-| 209 | [VGA]FOX NEWS | [VGA FOX NEWS](https://epg.pw/stream/7c4db8c7203a44f5c24e8c69d5a0bfa7d17939c3f1b4024e108beef6d63e634e.ctv) |
+| 209 | [SD]FOX NEWS | [SD FOX NEWS](https://epg.pw/stream/25d4938f582d921ee3065c051eb8ec80d09fc28c13d75cc5d41ca958db4f24d2.ctv) |
 | 210 | [HD]fox newsnow | [HD fox newsnow](https://epg.pw/stream/516cd8fec2b2c85c5d66b50e360a503ccde03570a6701514765b03e42443d43a.m3u8) |
 | 211 | [HD]FoxSports2 | [HD FoxSports2](https://epg.pw/stream/7a198d18bbd64710a2447f7521247696b252fb14e2e74442e63593cdca768e14.ctv) |
 | 212 | [SD]fuji tv next | [SD fuji tv next](https://epg.pw/stream/398311c3161e761c6fcdea9a00d06875e72e234f5c585cf68719d7f0a3ab83c9.m3u8) |
@@ -385,7 +385,7 @@
 | 379 | [SD]sun tv | [SD sun tv](https://epg.pw/stream/8e9c5245f5babfc8336aadd242a6a4f28f6f229503254c62df67a42f77d79cf5.m3u8) |
 | 380 | [HD]Sukan RTM | [HD Sukan RTM](https://epg.pw/stream/eaae724ad5d99d6e0342d50f7eaeaf9650cc22a43bdacaf547cec6f45b6106f3.ctv) |
 | 381 | [BD]supersport golf | [BD supersport golf](https://epg.pw/stream/1c29ef48b3ed686cd0343f9b3f427a5a53de03ba82f79069d70a52ffa840a1b9.m3u8) |
-| 382 | [HD]Suria | [HD Suria](https://epg.pw/stream/5f32becf9078915c6dbab8c5287310333cda8df247c8553811d5d7ab27936314.ctv) |
+| 382 | [HD]Suria | [HD Suria](https://epg.pw/stream/f997e07cf396972aa44e867bcf9e77f9b4fb5593c7c2eca780e61c575300ef78.ctv) |
 | 383 | [HD]bx inspire | [HD bx inspire](https://epg.pw/stream/cae2ef0498bb05671da9b11881359cc846c30f9e472008af9e40d8049b84261f.m3u8) |
 | 384 | [BD]TBS | [BD TBS](https://epg.pw/stream/bd2aa3fdabb1dc4c283e5bcd659701e5f86e51a4328eeeaea5de38af9748e155.ctv) |
 | 385 | [SD]tbsテレビ | [SD tbsテレビ](https://epg.pw/stream/0804490a58916340c9e3003c505c35beda3706a079d53f684ebd65f57d46d34f.m3u8) |
@@ -1042,7 +1042,7 @@
 | 1036 | [HD]señal colombia | [HD señal colombia](https://epg.pw/stream/8be3f859ea7d69c90a5253556cbb38591b745e56fe0ba187e16d847a8fbd1a92.m3u8) |
 | 1037 | [SD]sharjah sd | [SD sharjah sd](https://epg.pw/stream/8feac0b6972f6a6ebb9ec9e2e44e3ad93fd44eff11d9c97d067b0c4fa65cbb23.ctv) |
 | 1038 | [SD]sharjah sport sd | [SD sharjah sport sd](https://epg.pw/stream/b622e1b577047f622bf4cc45c767bfaf5681cc497fb6aa2de99d86fc4408a412.ctv) |
-| 1039 | [BD]shop channel (1080p) [not 24/7] | [BD shop channel (1080p)  not 24/7](https://epg.pw/stream/290cfdb28109a29b74e99935359b469ebdecec783d5c7f1c224f65ec8e5fe7aa.m3u8) |
+| 1039 | [BD]shop channel | [BD shop channel](https://epg.pw/stream/ffc1cc87ee32203153d35e3d54a7149348f01349e9cfd52a7f3a38d25b4a792f.m3u8) |
 | 1040 | [BD]sic | [BD sic](https://epg.pw/stream/58a2459dbd4621756210223482849e6c63f12b1084e831996c9c0b3314bcfac3.m3u8) |
 | 1041 | [SD]sixx | [SD sixx](https://epg.pw/stream/778192d6a5c44ba76751651fbca9a77836dc2b3db54306b4489a23927482904e.m3u8) |
 | 1042 | [HD]skai (720p) | [HD skai (720p)](https://epg.pw/stream/469a75c07e77e30b9625682bb1c8758b6864022b427988f34c7dc312a99f5a4e.m3u8) |
@@ -1074,9 +1074,9 @@
 | 1068 | [HD]sun channel | [HD sun channel](https://epg.pw/stream/e106d2496e7bc91d595775ea63347abcdc00be2701cd82958eca35e228b954ac.m3u8) |
 | 1069 | [HD]sun tv (544p) | [HD sun tv (544p)](https://epg.pw/stream/755611bf9f53bc5e0e7b46d3ac85f12f12a2d7d4608c8672999fefc1cb7af6a6.m3u8) |
 | 1070 | [SD]sunna tv | [SD sunna tv](https://epg.pw/stream/aadfe33534aaec0b9dfb18bb7af8c6b51826696540fab6fd4f0db7ccd4f0c921.m3u8) |
-| 1071 | [HD]super one hd | [HD super one hd](https://epg.pw/stream/8b6320da52c76fbbdee9ff6b215ce1db8e0ce9625669821f70c6182102704305.m3u8) |
-| 1072 | [SD]super rtl | [SD super rtl](https://epg.pw/stream/dd4f857a110cb6be427c9b22714cca6f0ff08f3d8e8d64e860abb88f42307a0c.m3u8) |
-| 1073 | [HD]super tv | [HD super tv](https://epg.pw/stream/31d32b87195b13bcd68d9a7a9bbd3bb7cecc08b40c3bc3fa6c26c455fe24d128.m3u8) |
+| 1071 | [SD]super rtl | [SD super rtl](https://epg.pw/stream/dd4f857a110cb6be427c9b22714cca6f0ff08f3d8e8d64e860abb88f42307a0c.m3u8) |
+| 1072 | [HD]super tv | [HD super tv](https://epg.pw/stream/31d32b87195b13bcd68d9a7a9bbd3bb7cecc08b40c3bc3fa6c26c455fe24d128.m3u8) |
+| 1073 | [HD]superone hd | [HD superone hd](https://epg.pw/stream/411929e6b8607e37dc0ce8b37fa4b3785496f82ef9ff2e0796a6977e97964235.m3u8) |
 | 1074 | [BD]swerve sports | [BD swerve sports](https://epg.pw/stream/25fd51baac16a3bc90efda6777f5629f68506840568a1eea604502d207522cb5.m3u8) |
 | 1075 | [HD]swr 3 visual radio | [HD swr 3 visual radio](https://epg.pw/stream/38d448cbdc1ccd0a1251012c50fd2e834cd753f78b76181edd2414546c9748c6.m3u8) |
 | 1076 | [HD]syria | [HD syria](https://epg.pw/stream/d35ad843dc84d779b7ac7105d3f95c3a1f7754dcfb8cae21ce8e5b02023c3aee.m3u8) |
@@ -1689,4 +1689,4 @@
 | 1683 | [VGA]龙祥电影台 | [VGA 龙祥电影台](https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv) |
 | 1684 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Mon Jan 15 2024 17:20:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 15 2024 18:10:20 GMT+0000 (Coordinated Universal Time)**
