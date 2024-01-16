@@ -22,9 +22,8 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/
 
 国际,#genre#
 台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
-中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
+中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
 公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
-东森新闻,http://livetv.skycf.eu.org/live.m3u8?c=9
 镜新闻,http://livetv.skycf.eu.org/live.m3u8?c=10
 民视新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
 三立新闻,、http://livetv.skycf.eu.org/live.m3u8?c=12 
