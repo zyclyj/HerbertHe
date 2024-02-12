@@ -170,10 +170,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@rollup/wasm-node@^4.9.5":
-  version "4.9.5"
-  resolved "https://registry.npmmirror.com/@rollup/wasm-node/-/wasm-node-4.9.5.tgz#dbaa59a22106504b86c0e12d58beb7d686a7470b"
-  integrity sha512-Xhabb9BwobkC3NFnI9spB+AvHt+iXruRAtBZRlrCDaBnkT7hWUcSF+J+T/nW/qqqGKtYJ/1RzBRv6vCCxEIgpg==
+"@rollup/wasm-node@^4.10.0":
+  version "4.10.0"
+  resolved "https://registry.yarnpkg.com/@rollup/wasm-node/-/wasm-node-4.10.0.tgz#dc3957eab92fc98347c80b029348111d4b6855bd"
+  integrity sha512-wH/ih4T/iP2PUyTrkyioZqDoFY/gmu63LPLTOM5Q21gSB/D3Ejw3UBpUOMLt86fIbN3mV+wL45MyA71XAj1ytg==
   dependencies:
     "@types/estree" "1.0.5"
   optionalDependencies:
